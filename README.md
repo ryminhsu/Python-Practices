@@ -1,2 +1,5 @@
-# Python Practices
- 
+# Python Practice
+
+Tool:
+Spyder
+Jupyter
