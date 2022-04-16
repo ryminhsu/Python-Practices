@@ -1,0 +1,1131 @@
+country,region,date,retail,grocery_and_pharmacy,parks,transit_stations,workplaces,residential
+United Arab Emirates,Total,16/04/2020,-63,-32,-74,-79,-55,34
+United Arab Emirates,Abu Dhabi,16/04/2020,-54,-23,-66,-75,-47,28
+United Arab Emirates,Ajman,16/04/2020,-49,-26,-83,-50,-46,29
+United Arab Emirates,Dubai,16/04/2020,-76,-42,-78,-81,-64,41
+United Arab Emirates,Fujairah,16/04/2020,-46,-22,-43,,-30,21
+United Arab Emirates,Ras al Khaimah,16/04/2020,-47,-24,-49,-59,-34,22
+United Arab Emirates,Sharjah,16/04/2020,-47,-25,-83,-72,-50,30
+United Arab Emirates,Umm Al Quawain,16/04/2020,-42,-23,,,-35,
+Afghanistan,Total,16/04/2020,-46,-34,-13,-51,-39,16
+Antigua and Barbuda,Total,16/04/2020,-67,-48,-55,-78,-73,
+Angola,Total,16/04/2020,-52,-34,-36,-59,-51,25
+Argentina,Total,16/04/2020,-83,-31,-92,-61,-53,26
+Argentina,Buenos Aires,16/04/2020,-88,-27,-93,-72,-73,34
+Argentina,Buenos Aires Province,16/04/2020,-83,-28,-94,-58,-57,27
+Argentina,Catamarca Province,16/04/2020,-74,-15,-90,-62,-31,21
+Argentina,Chaco Province,16/04/2020,-80,-28,-91,-74,-42,20
+Argentina,Chubut Province,16/04/2020,-83,-36,-91,-77,-48,25
+Argentina,Cordoba,16/04/2020,-83,-35,-93,-78,-51,26
+Argentina,Corrientes,16/04/2020,-78,-37,-86,-73,-37,19
+Argentina,Entre Rios,16/04/2020,-81,-30,-91,-70,-38,20
+Argentina,Formosa Province,16/04/2020,-82,-18,-85,0,-27,15
+Argentina,Jujuy,16/04/2020,-81,-25,-86,-78,-38,20
+Argentina,La Pampa,16/04/2020,-83,-34,-87,-58,-44,23
+Argentina,La Rioja Province,16/04/2020,-76,-35,-96,-68,-46,21
+Argentina,Mendoza Province,16/04/2020,-80,-31,-89,-50,-47,26
+Argentina,Misiones Province,16/04/2020,-77,-32,-81,-82,-35,19
+Argentina,Neuquen,16/04/2020,-85,-41,-91,-60,-55,29
+Argentina,Río Negro,16/04/2020,-87,-49,-91,-91,-52,28
+Argentina,Salta Province,16/04/2020,-80,-35,-87,-45,-42,21
+Argentina,San Juan Province,16/04/2020,-79,-14,-92,-76,-39,22
+Argentina,San Luis Province,16/04/2020,-84,-39,-93,-74,-47,23
+Argentina,Santa Cruz Province,16/04/2020,-82,-35,-88,-87,-47,26
+Argentina,Santa Fe Province,16/04/2020,-81,-31,-93,-31,-48,24
+Argentina,Santiago del Estero Province,16/04/2020,-80,-31,-87,-82,-44,20
+Argentina,Tierra del Fuego Province,16/04/2020,-86,-50,-89,-79,-66,31
+Argentina,Tucumán,16/04/2020,-79,-23,-84,-55,-45,20
+Austria,Total,16/04/2020,-63,-18,-9,-57,-52,20
+Austria,Burgenland,16/04/2020,-54,-14,44,-34,-50,19
+Austria,Carinthia,16/04/2020,-59,-19,-20,-48,-47,17
+Austria,Lower Austria,16/04/2020,-55,-7,53,-60,-51,20
+Austria,Salzburg,16/04/2020,-71,-29,-48,-62,-50,19
+Austria,Styria,16/04/2020,-61,-19,-12,-54,-50,19
+Austria,Tyrol,16/04/2020,-73,-31,-50,-62,-50,19
+Austria,Upper Austria,16/04/2020,-58,-14,21,-54,-48,19
+Austria,Vienna,16/04/2020,-67,-15,17,-60,-61,22
+Austria,Vorarlberg,16/04/2020,-60,-18,-39,-63,-45,19
+Australia,Total,16/04/2020,-39,-8,-27,-60,-41,20
+Australia,Australian Capital Territory,16/04/2020,-37,6,-3,-57,-49,22
+Australia,New South Wales,16/04/2020,-40,-6,-26,-60,-43,21
+Australia,Northern Territory,16/04/2020,-20,0,-11,-43,-18,13
+Australia,Queensland,16/04/2020,-34,-5,-23,-58,-38,16
+Australia,South Australia,16/04/2020,-32,0,-24,-51,-34,16
+Australia,Tasmania,16/04/2020,-50,-24,-60,-60,-35,18
+Australia,Victoria,16/04/2020,-45,-13,-42,-70,-44,23
+Australia,Western Australia,16/04/2020,-32,-6,-25,-56,-34,18
+Aruba,Total,16/04/2020,-66,-31,-48,-68,-63,32
+Bosnia and Herzegovina,Total,16/04/2020,-56,-15,12,-46,-46,14
+Barbados,Total,16/04/2020,-71,-46,-64,-79,-73,32
+Barbados,Christ Church,16/04/2020,-79,-52,,-84,-74,
+Barbados,Saint George,16/04/2020,,,-51,,-74,
+Barbados,Saint James,16/04/2020,,,,,-75,
+Barbados,Saint John,16/04/2020,,,,,-72,
+Barbados,Saint Lucy,16/04/2020,,,,,-71,
+Barbados,Saint Michael,16/04/2020,-73,-50,-78,-78,-72,
+Barbados,Saint Peter,16/04/2020,,,,,-74,
+Barbados,Saint Philip,16/04/2020,,,,,-72,
+Barbados,Saint Thomas,16/04/2020,,,,,-74,
+Bangladesh,Total,16/04/2020,-74,-54,-32,-72,-59,27
+Belgium,Total,16/04/2020,-73,-20,-4,-67,-65,27
+Belgium,Brussels,16/04/2020,-83,-32,-14,-78,-74,31
+Belgium,Flanders,16/04/2020,-70,-13,7,-65,-62,27
+Belgium,Wallonia,16/04/2020,-75,-29,-24,-64,-66,27
+Burkina Faso,Total,16/04/2020,-28,-22,-18,-43,-18,20
+Bulgaria,Total,16/04/2020,-41,-2,-21,-43,-43,13
+Bulgaria,Blagoevgrad Province,16/04/2020,-49,-6,-14,-35,-41,11
+Bulgaria,Burgas,16/04/2020,-35,1,-12,-31,-38,11
+Bulgaria,Dobrich Province,16/04/2020,-29,4,-10,,-34,9
+Bulgaria,Gabrovo,16/04/2020,-41,15,,,-35,10
+Bulgaria,Haskovo Province,16/04/2020,-37,13,18,-50,-37,11
+Bulgaria,Jambol,16/04/2020,-34,,,,-33,11
+Bulgaria,Kardzhali Province,16/04/2020,,,-15,-62,-44,
+Bulgaria,Kyustendil Province,16/04/2020,-35,14,,,-35,10
+Bulgaria,Lovec,16/04/2020,,6,,,-34,9
+Bulgaria,Montana Province,16/04/2020,,,,,-29,5
+Bulgaria,Pazardzhik,16/04/2020,-37,6,-2,,-37,11
+Bulgaria,Pernik,16/04/2020,-29,18,,,-37,12
+Bulgaria,Pleven Province,16/04/2020,-34,1,2,,-37,9
+Bulgaria,Plovdiv Province,16/04/2020,-43,-1,-20,-32,-39,12
+Bulgaria,Razgrad,16/04/2020,,,,,-34,
+Bulgaria,Ruse,16/04/2020,-32,1,2,,-37,11
+Bulgaria,Shumen Province,16/04/2020,-36,1,,-32,-36,9
+Bulgaria,Silistra,16/04/2020,,,,,-34,
+Bulgaria,Sliven Province,16/04/2020,-34,4,-15,,-37,10
+Bulgaria,Smoljan,16/04/2020,,,-2,,-41,
+Bulgaria,Sofia City Province,16/04/2020,-51,-12,-47,-54,-54,20
+Bulgaria,Sofia Province,16/04/2020,-29,7,20,,-39,13
+Bulgaria,Stara Zagora,16/04/2020,-40,-1,-21,33,-35,11
+Bulgaria,Targovishte Province,16/04/2020,,-1,,,-38,
+Bulgaria,Varna,16/04/2020,-42,0,-17,-56,-43,14
+Bulgaria,Veliko Tarnovo Province,16/04/2020,-38,-4,-11,-31,-37,10
+Bulgaria,Vidin,16/04/2020,,,,,-33,
+Bulgaria,Vraca,16/04/2020,-30,1,40,-23,-33,7
+Bahrain,Total,16/04/2020,-36,-11,-40,-36,-23,18
+Benin,Total,16/04/2020,-18,-5,-4,-16,-16,10
+Bolivia,Total,16/04/2020,-83,-70,-75,-81,-75,38
+Brazil,Total,16/04/2020,-56,-14,-46,-53,-38,18
+Brazil,Federal District,16/04/2020,-60,-8,-69,-50,-49,24
+Brazil,State of Acre,16/04/2020,-45,-10,-39,-67,-29,14
+Brazil,State of Alagoas,16/04/2020,-61,-20,-48,-61,-37,15
+Brazil,State of Amapá,16/04/2020,-58,-19,-38,-69,-46,18
+Brazil,State of Amazonas,16/04/2020,-57,-21,-53,-45,-44,19
+Brazil,State of Bahia,16/04/2020,-55,-22,-47,-59,-35,16
+Brazil,State of Ceará,16/04/2020,-67,-21,-51,-63,-49,19
+Brazil,State of Espírito Santo,16/04/2020,-52,-12,-47,-57,-32,17
+Brazil,State of Goiás,16/04/2020,-49,-12,-32,-42,-35,18
+Brazil,State of Maranhão,16/04/2020,-53,-19,-44,-61,-35,16
+Brazil,State of Mato Grosso,16/04/2020,-36,-8,-31,-43,-21,12
+Brazil,State of Mato Grosso do Sul,16/04/2020,-37,-7,-33,-42,-18,13
+Brazil,State of Minas Gerais,16/04/2020,-50,-5,-32,-40,-31,17
+Brazil,State of Pará,16/04/2020,-45,-11,-34,-46,-30,15
+Brazil,State of Paraíba,16/04/2020,-67,-20,-56,-61,-41,17
+Brazil,State of Paraná,16/04/2020,-45,-11,-34,-45,-29,16
+Brazil,State of Pernambuco,16/04/2020,-65,-29,-58,-57,-46,19
+Brazil,State of Piauí,16/04/2020,-64,-27,-32,-72,-42,20
+Brazil,State of Rio de Janeiro,16/04/2020,-61,-19,-68,-58,-46,22
+Brazil,State of Rio Grande do Norte,16/04/2020,-63,-20,-55,-56,-39,18
+Brazil,State of Rio Grande do Sul,16/04/2020,-51,-16,-45,-49,-33,18
+Brazil,State of Rondônia,16/04/2020,-40,-14,-27,-61,-20,12
+Brazil,State of Roraima,16/04/2020,-47,-12,-38,-58,-28,15
+Brazil,State of Santa Catarina,16/04/2020,-47,-23,-61,-66,-26,15
+Brazil,State of São Paulo,16/04/2020,-58,-10,-40,-54,-43,20
+Brazil,State of Sergipe,16/04/2020,-54,-21,-40,-69,-42,16
+Brazil,State of Tocantins,16/04/2020,-36,-16,-24,-51,-22,13
+The Bahamas,Total,16/04/2020,-53,-15,-39,-83,-60,29
+Botswana,Total,16/04/2020,-63,-53,-2,-74,-64,35
+Belarus,Total,16/04/2020,-24,-5,-9,-28,-26,10
+Belize,Total,16/04/2020,-68,-40,-53,-79,-70,28
+Canada,Total,16/04/2020,-49,-18,-6,-68,-60,25
+Canada,Alberta,16/04/2020,-41,-4,-5,-67,-53,22
+Canada,British Columbia,16/04/2020,-43,-16,70,-59,-54,21
+Canada,Manitoba,16/04/2020,-39,-6,-15,-60,-47,21
+Canada,New Brunswick,16/04/2020,-39,-21,-10,-54,-56,22
+Canada,Newfoundland and Labrador,16/04/2020,-40,-23,-16,-62,-59,19
+Canada,Northwest Territories,16/04/2020,,,,-55,-47,
+Canada,Nova Scotia,16/04/2020,-45,-23,-23,-67,-59,21
+Canada,Nunavut,16/04/2020,,,,,-27,
+Canada,Ontario,16/04/2020,-54,-19,-32,-70,-63,27
+Canada,Prince Edward Island,16/04/2020,-41,-10,,,-55,21
+Canada,Quebec,16/04/2020,-56,-24,-26,-73,-65,28
+Canada,Saskatchewan,16/04/2020,-39,-7,17,-53,-49,19
+Canada,Yukon,16/04/2020,,,,,-42,
+Côte d'Ivoire,Total,16/04/2020,-29,-16,-22,-29,-25,18
+Chile,Total,16/04/2020,-63,-38,-61,-59,-48,25
+Chile,Antofagasta,16/04/2020,-52,-37,-59,-53,-35,20
+Chile,Araucania,16/04/2020,-76,-56,-69,-74,-57,28
+Chile,Arica y Parinacota,16/04/2020,-47,-3,-66,-40,-36,15
+Chile,Atacama,16/04/2020,-50,-34,-48,-63,-29,19
+Chile,Aysén,16/04/2020,-58,-34,-64,-80,-32,18
+Chile,Bio Bio,16/04/2020,-64,-41,-59,-60,-45,24
+Chile,Coquimbo,16/04/2020,-65,-44,-74,-59,-40,20
+Chile,Los Lagos,16/04/2020,-69,-50,-68,-66,-44,24
+Chile,Los Ríos,16/04/2020,-70,-49,-76,-67,-44,25
+Chile,Magallanes and Chilean Antarctica,16/04/2020,-80,-58,-74,-83,-58,26
+Chile,Maule,16/04/2020,-53,-34,-52,-49,-31,20
+Chile,Ñuble,16/04/2020,-70,-56,-54,-81,-66,
+Chile,O'Higgins,16/04/2020,-50,-30,-53,-46,-31,19
+Chile,Santiago Metropolitan Region,16/04/2020,-63,-29,-54,-61,-54,28
+Chile,Tarapacá,16/04/2020,-62,-37,-68,-48,-40,22
+Chile,Valparaíso,16/04/2020,-62,-41,-67,-55,-42,21
+Cameroon,Total,16/04/2020,-26,-20,-19,-26,-20,12
+Colombia,Total,16/04/2020,-77,-52,-67,-77,-69,33
+Colombia,Amazonas Department,16/04/2020,,,-57,,-35,
+Colombia,Antioquia,16/04/2020,-77,-48,-65,-78,-71,33
+Colombia,Arauca,16/04/2020,,-49,-56,-52,-45,
+Colombia,Atlantico,16/04/2020,-76,-51,-71,-80,-70,29
+Colombia,Bogota,16/04/2020,-79,-55,-70,-80,-76,40
+Colombia,Bolivar,16/04/2020,-82,-66,-79,-87,-69,28
+Colombia,Boyaca,16/04/2020,-73,-55,-65,-75,-63,29
+Colombia,Caldas,16/04/2020,-77,-55,-65,-86,-66,30
+Colombia,Caquetá,16/04/2020,-69,-52,-63,,-56,26
+Colombia,Casanare,16/04/2020,-73,-53,-58,-70,-56,31
+Colombia,Cauca,16/04/2020,-75,-57,-65,-69,-62,27
+Colombia,Cesar,16/04/2020,-75,-55,-62,-82,-59,26
+Colombia,Choco,16/04/2020,,,-43,-67,-48,19
+Colombia,Cordoba,16/04/2020,-70,-49,-53,-69,-61,23
+Colombia,Cundinamarca,16/04/2020,-69,-51,-63,-70,-64,35
+Colombia,Guaviare,16/04/2020,,,-55,,-39,
+Colombia,Huila,16/04/2020,-74,-52,-68,,-63,28
+Colombia,La Guajira,16/04/2020,-67,-42,-57,-68,-53,22
+Colombia,Magdalena,16/04/2020,-76,-59,-76,-83,-63,25
+Colombia,Meta,16/04/2020,-75,-55,-61,-59,-60,31
+Colombia,Narino,16/04/2020,-78,-57,-64,-70,-66,29
+Colombia,North Santander,16/04/2020,-77,-47,-66,-83,-65,27
+Colombia,Putumayo,16/04/2020,-69,-61,-58,,-46,24
+Colombia,Quindio,16/04/2020,-80,-55,-74,,-69,29
+Colombia,Risaralda,16/04/2020,-78,-51,-72,-82,-70,32
+Colombia,San Andrés and Providencia,16/04/2020,-80,-59,-79,-80,-59,
+Colombia,Santander,16/04/2020,-75,-49,-66,-76,-68,30
+Colombia,Sucre,16/04/2020,-71,-49,-57,-89,-55,23
+Colombia,Tolima,16/04/2020,-77,-57,-61,-81,-64,29
+Colombia,Valle del Cauca,16/04/2020,-73,-48,-68,-71,-66,29
+Colombia,Vichada,16/04/2020,,,-33,,-23,
+Costa Rica,Total,16/04/2020,-47,-25,-53,-53,-41,21
+Cape Verde,Total,16/04/2020,-64,-48,-54,-84,-63,30
+Germany,Total,16/04/2020,-53,-3,57,-48,-43,16
+Germany,Baden-Württemberg,16/04/2020,-54,-4,51,-50,-45,17
+Germany,Bavaria,16/04/2020,-63,-5,29,-55,-46,18
+Germany,Berlin,16/04/2020,-61,2,20,-51,-52,18
+Germany,Brandenburg,16/04/2020,-42,9,59,-36,-39,14
+Germany,Bremen,16/04/2020,-57,2,48,-52,-44,15
+Germany,Hamburg,16/04/2020,-63,2,56,-55,-50,20
+Germany,Hesse,16/04/2020,-52,-4,62,-60,-47,16
+Germany,Lower Saxony,16/04/2020,-49,-5,55,-42,-41,15
+Germany,Mecklenburg-Vorpommern,16/04/2020,-56,-2,30,-37,-34,11
+Germany,North Rhine-Westphalia,16/04/2020,-49,-3,90,-48,-45,15
+Germany,Rhineland-Palatinate,16/04/2020,-47,-4,57,-54,-44,16
+Germany,Saarland,16/04/2020,-49,-13,48,-58,-47,17
+Germany,Saxony,16/04/2020,-56,-4,90,-40,-37,13
+Germany,Saxony-Anhalt,16/04/2020,-44,-2,54,-39,-30,10
+Germany,Schleswig-Holstein,16/04/2020,-49,-3,50,-43,-44,16
+Germany,Thuringia,16/04/2020,-42,-6,80,-32,-37,12
+Denmark,Total,16/04/2020,-23,-4,95,-50,-47,16
+Denmark,Capital Region of Denmark,16/04/2020,-32,-7,85,-57,-55,19
+Denmark,Central Denmark Region,16/04/2020,-22,-6,121,-45,-45,16
+Denmark,North Denmark Region,16/04/2020,-23,1,63,-39,-41,14
+Denmark,Region of Southern Denmark,16/04/2020,-17,-3,87,-45,-42,14
+Denmark,Region Zealand,16/04/2020,-9,-4,109,-45,-44,15
+Dominican Republic,Total,16/04/2020,-69,-47,-59,-80,-69,32
+Ecuador,Total,16/04/2020,-77,-58,-72,-76,-78,37
+Estonia,Total,16/04/2020,-46,-21,-14,-49,-50,21
+Estonia,Harju County,16/04/2020,-48,-23,-15,-55,-53,23
+Estonia,Ida-Viru County,16/04/2020,-38,-19,,-33,-41,15
+Estonia,Järva County,16/04/2020,,,,,-39,
+Estonia,Jõgeva County,16/04/2020,,,,,-41,
+Estonia,Lääne County,16/04/2020,,,,,-43,
+Estonia,Lääne-Viru County,16/04/2020,,-19,,-35,-43,
+Estonia,Pärnu County,16/04/2020,-48,-19,,-46,-46,18
+Estonia,Põlva County,16/04/2020,,,,,-47,
+Estonia,Rapla County,16/04/2020,,,,,-49,
+Estonia,Saare County,16/04/2020,,,,-59,-51,
+Estonia,Tartu County,16/04/2020,-51,-23,-14,-53,-52,23
+Estonia,Valga County,16/04/2020,,,,,-41,
+Estonia,Viljandi County,16/04/2020,,,,-35,-45,
+Estonia,Võru County,16/04/2020,,,,,-45,
+Spain,Total,16/04/2020,-88,-46,-76,-80,-67,30
+Spain,Andalusia,16/04/2020,-87,-51,-75,-81,-67,27
+Spain,Aragon,16/04/2020,-87,-45,-67,-77,-63,28
+Spain,Asturias,16/04/2020,-88,-46,-70,-69,-65,27
+Spain,Balearic Islands,16/04/2020,-86,-46,-73,-82,-64,30
+Spain,Basque Country,16/04/2020,-88,-38,-78,-76,-65,31
+Spain,Canary Islands,16/04/2020,-89,-52,-85,-80,-67,27
+Spain,Cantabria,16/04/2020,-87,-45,-72,-77,-64,29
+Spain,Castile and León,16/04/2020,-88,-51,-72,-80,-63,27
+Spain,Castile-La Mancha,16/04/2020,-86,-45,-73,-79,-63,28
+Spain,Catalonia,16/04/2020,-87,-41,-76,-80,-70,34
+Spain,Ceuta,16/04/2020,-92,-54,-84,,-67,
+Spain,Community of Madrid,16/04/2020,-90,-45,-84,-84,-77,37
+Spain,Extremadura,16/04/2020,-87,-54,-67,-77,-62,24
+Spain,Galicia,16/04/2020,-86,-46,-64,-79,-63,29
+Spain,La Rioja,16/04/2020,-86,-48,-74,-81,-60,27
+Spain,Melilla,16/04/2020,-85,-52,-79,-78,-65,
+Spain,Navarre,16/04/2020,-87,-40,-74,-81,-62,29
+Spain,Region of Murcia,16/04/2020,-85,-44,-72,-70,-60,27
+Spain,Valencian Community,16/04/2020,-87,-45,-76,-81,-65,29
+Finland,Total,16/04/2020,-43,-13,28,-58,-49,17
+Finland,Central Finland,16/04/2020,-37,-15,41,-60,-49,16
+Finland,Central Ostrobothnia,16/04/2020,-30,-11,,-53,-41,13
+Finland,Kainuu,16/04/2020,-44,-15,,-51,-43,12
+Finland,Kymenlaakso,16/04/2020,-42,-8,36,-60,-40,13
+Finland,Lapland,16/04/2020,-51,-20,10,-65,-47,13
+Finland,North Karelia,16/04/2020,-37,-14,,,-44,13
+Finland,Northern Ostrobothnia,16/04/2020,-39,-14,51,-50,-51,16
+Finland,Northern Savonia,16/04/2020,-42,-9,48,-46,-45,14
+Finland,Ostrobothnia,16/04/2020,-35,-7,,-52,-44,15
+Finland,Päijänne Tavastia,16/04/2020,-41,-13,,-50,-45,15
+Finland,Pirkanmaa,16/04/2020,-42,-13,28,-55,-51,18
+Finland,Satakunta,16/04/2020,-36,-10,,-43,-39,14
+Finland,South Karelia,16/04/2020,-39,-11,,-56,-46,13
+Finland,Southern Ostrobothnia,16/04/2020,-36,-10,,-43,-41,14
+Finland,Southern Savonia,16/04/2020,-41,-7,51,-48,-40,12
+Finland,Southwest Finland,16/04/2020,-41,-11,27,-49,-46,17
+Finland,Tavastia Proper,16/04/2020,-38,-13,,-58,-45,16
+Finland,Uusimaa,16/04/2020,-48,-13,1,-65,-57,22
+Fiji,Total,16/04/2020,-38,-23,-21,-55,-38,23
+France,Total,16/04/2020,-81,-31,-58,-78,-69,31
+France,Auvergne-Rhône-Alpes,16/04/2020,-80,-32,-58,-79,-68,33
+France,Bourgogne-Franche-Comté,16/04/2020,-79,-35,-48,-71,-63,28
+France,Brittany,16/04/2020,-80,-32,-40,-76,-64,29
+France,Centre-Val de Loire,16/04/2020,-79,-31,-55,-76,-67,30
+France,Corsica,16/04/2020,-79,-38,-54,-71,-60,24
+France,Grand Est,16/04/2020,-80,-32,-50,-78,-67,29
+France,Hauts-de-France,16/04/2020,-79,-30,-53,-79,-68,29
+France,Île-de-France,16/04/2020,-83,-28,-78,-80,-79,38
+France,Normandy,16/04/2020,-79,-30,-51,-78,-65,29
+France,Nouvelle-Aquitaine,16/04/2020,-80,-31,-51,-76,-64,29
+France,Occitanie,16/04/2020,-79,-32,-53,-78,-68,30
+France,Pays de la Loire,16/04/2020,-81,-32,-48,-81,-67,32
+France,Provence-Alpes-Côte d'Azur,16/04/2020,-78,-33,-63,-76,-68,30
+Gabon,Total,16/04/2020,-52,-39,-16,-60,-52,28
+United Kingdom,Total,16/04/2020,-73,-27,-7,-70,-69,28
+United Kingdom,Aberdeen City,16/04/2020,-80,-29,-16,-66,-71,29
+United Kingdom,Aberdeenshire,16/04/2020,-63,-31,-17,-54,-69,27
+United Kingdom,Angus council,16/04/2020,-70,-29,-14,-47,-65,
+United Kingdom,Antrim And Newtownabbey,16/04/2020,-58,-22,,-78,-70,29
+United Kingdom,Ards And North Down,16/04/2020,-61,-24,-38,-61,-72,28
+United Kingdom,Argyll and Bute Council,16/04/2020,-72,-32,-31,-56,-66,
+United Kingdom,"Armagh City, Banbridge And Craigavon",16/04/2020,-64,-19,-47,-58,-64,27
+United Kingdom,Bath and North East Somerset,16/04/2020,-85,-35,-17,-72,-74,30
+United Kingdom,Bedford,16/04/2020,-73,-25,,-65,-66,28
+United Kingdom,Belfast,16/04/2020,-73,-28,-17,-76,-73,28
+United Kingdom,Blackburn with Darwen,16/04/2020,-69,-23,,-63,-61,24
+United Kingdom,Blackpool,16/04/2020,-73,-21,7,-53,-61,22
+United Kingdom,Blaenau Gwent,16/04/2020,,-25,,-28,-57,
+United Kingdom,Borough of Halton,16/04/2020,-62,-27,,-55,-62,25
+United Kingdom,Bracknell Forest,16/04/2020,-70,-25,,-69,-74,
+United Kingdom,Bridgend County Borough,16/04/2020,-73,-20,,-57,-65,25
+United Kingdom,Brighton and Hove,16/04/2020,-80,-34,8,-71,-75,30
+United Kingdom,Buckinghamshire,16/04/2020,-69,-28,2,-67,-73,31
+United Kingdom,Caerphilly County Borough,16/04/2020,-64,-24,,-54,-64,25
+United Kingdom,Cambridgeshire,16/04/2020,-75,-29,0,-72,-71,30
+United Kingdom,Cardiff,16/04/2020,-77,-32,-28,-79,-73,29
+United Kingdom,Carmarthenshire,16/04/2020,-68,-18,-18,-49,-63,24
+United Kingdom,Causeway Coast and Glens,16/04/2020,-70,-18,-24,-51,-66,26
+United Kingdom,Central Bedfordshire,16/04/2020,-68,-25,31,-61,-70,30
+United Kingdom,Ceredigion,16/04/2020,-74,-39,-34,-51,-66,
+United Kingdom,Cheshire East,16/04/2020,-69,-28,-5,-68,-69,27
+United Kingdom,Cheshire West and Chester,16/04/2020,-76,-28,-10,-66,-69,27
+United Kingdom,City of Bristol,16/04/2020,-80,-31,28,-80,-75,32
+United Kingdom,Clackmannanshire,16/04/2020,,-23,,-56,-67,
+United Kingdom,Conwy Principal Area,16/04/2020,-71,-25,-24,-50,-65,23
+United Kingdom,Cornwall,16/04/2020,-73,-35,-20,-51,-64,23
+United Kingdom,County Durham,16/04/2020,-66,-26,-6,-53,-66,25
+United Kingdom,Cumbria,16/04/2020,-70,-29,-25,-59,-67,25
+United Kingdom,Darlington,16/04/2020,-70,-29,,-68,-64,24
+United Kingdom,Denbighshire,16/04/2020,-66,-25,-14,-53,-63,
+United Kingdom,Derby,16/04/2020,-69,-24,40,-76,-67,26
+United Kingdom,Derbyshire,16/04/2020,-71,-22,6,-51,-66,26
+United Kingdom,Derry And Strabane,16/04/2020,-61,-22,-51,-51,-65,25
+United Kingdom,Devon,16/04/2020,-74,-31,-14,-60,-64,24
+United Kingdom,Dorset,16/04/2020,-74,-29,1,-56,-67,26
+United Kingdom,Dumfries and Galloway,16/04/2020,-68,-26,-29,-59,-60,21
+United Kingdom,Dundee City Council,16/04/2020,-76,-34,-25,-68,-68,25
+United Kingdom,East Ayrshire Council,16/04/2020,-66,-23,,-59,-65,24
+United Kingdom,East Dunbartonshire Council,16/04/2020,-65,-20,,-71,-75,
+United Kingdom,East Lothian Council,16/04/2020,-74,-26,-20,-59,-72,
+United Kingdom,East Renfrewshire Council,16/04/2020,,-15,,-64,-76,
+United Kingdom,East Riding of Yorkshire,16/04/2020,-69,-22,-5,-33,-64,25
+United Kingdom,East Sussex,16/04/2020,-72,-26,1,-59,-66,26
+United Kingdom,Edinburgh,16/04/2020,-83,-39,-42,-85,-81,33
+United Kingdom,Essex,16/04/2020,-68,-29,-2,-76,-69,28
+United Kingdom,Falkirk,16/04/2020,-70,-27,-14,-66,-69,27
+United Kingdom,Fermanagh And Omagh,16/04/2020,-68,-20,,-53,-62,
+United Kingdom,Fife,16/04/2020,-70,-24,-26,-60,-68,26
+United Kingdom,Flintshire,16/04/2020,-64,-22,-5,-46,-66,27
+United Kingdom,Glasgow City,16/04/2020,-77,-32,-38,-83,-75,29
+United Kingdom,Gloucestershire,16/04/2020,-75,-30,-7,-59,-67,27
+United Kingdom,Greater London,16/04/2020,-79,-32,-15,-79,-76,34
+United Kingdom,Greater Manchester,16/04/2020,-70,-27,0,-74,-68,27
+United Kingdom,Gwynedd,16/04/2020,-72,-34,-32,-54,-67,
+United Kingdom,Hampshire,16/04/2020,-72,-28,2,-67,-69,29
+United Kingdom,Hartlepool,16/04/2020,-69,-23,,-47,-61,
+United Kingdom,Herefordshire,16/04/2020,-69,-31,3,-51,-57,23
+United Kingdom,Hertfordshire,16/04/2020,-71,-31,6,-74,-72,31
+United Kingdom,Highland Council,16/04/2020,-74,-32,-28,-58,-66,24
+United Kingdom,Inverclyde,16/04/2020,-75,-25,,-59,-69,
+United Kingdom,Isle of Anglesey,16/04/2020,,-21,-9,-47,-62,
+United Kingdom,Isle of Wight,16/04/2020,-75,-32,-15,-63,-63,22
+United Kingdom,Kent,16/04/2020,-71,-29,-3,-61,-67,27
+United Kingdom,Kingston upon Hull,16/04/2020,-66,-23,-14,-60,-60,23
+United Kingdom,Lancashire,16/04/2020,-69,-24,23,-61,-64,25
+United Kingdom,Leicester,16/04/2020,-70,-28,10,-73,-64,25
+United Kingdom,Leicestershire,16/04/2020,-69,-25,2,-58,-68,28
+United Kingdom,Lincolnshire,16/04/2020,-69,-24,-16,-53,-60,22
+United Kingdom,Lisburn and Castlereagh,16/04/2020,-70,-28,,-65,-72,31
+United Kingdom,Luton,16/04/2020,-67,-22,,-87,-64,27
+United Kingdom,Medway,16/04/2020,-70,-21,-2,-65,-64,27
+United Kingdom,Merseyside,16/04/2020,-70,-23,-1,-68,-67,26
+United Kingdom,Merthyr Tydfil County Borough,16/04/2020,-72,-34,,-46,-61,
+United Kingdom,Mid And East Antrim,16/04/2020,-68,-18,-29,-70,-68,28
+United Kingdom,Mid Ulster,16/04/2020,-60,-23,,-42,-66,29
+United Kingdom,Middlesbrough,16/04/2020,-70,-32,-28,-71,-62,23
+United Kingdom,Midlothian,16/04/2020,-75,-28,,-57,-71,
+United Kingdom,Milton Keynes,16/04/2020,-71,-30,7,-74,-70,29
+United Kingdom,Monmouthshire,16/04/2020,-70,-36,-21,-58,-67,
+United Kingdom,Moray,16/04/2020,-75,-27,-16,-47,-64,
+United Kingdom,Na h-Eileanan an Iar,16/04/2020,,,,-44,-57,
+United Kingdom,Neath Port Talbot Principle Area,16/04/2020,-60,-23,0,-56,-64,23
+United Kingdom,Newport,16/04/2020,-70,-27,-13,-68,-64,26
+United Kingdom,"Newry, Mourne And Down",16/04/2020,-69,-24,-35,-47,-68,28
+United Kingdom,Norfolk,16/04/2020,-73,-31,-17,-60,-63,24
+United Kingdom,North Ayrshire Council,16/04/2020,-67,-15,-11,-54,-67,24
+United Kingdom,North East Lincolnshire,16/04/2020,-69,-23,-18,-54,-55,21
+United Kingdom,North Lanarkshire,16/04/2020,-65,-25,,-60,-67,26
+United Kingdom,North Lincolnshire,16/04/2020,-60,-23,-14,-42,-58,22
+United Kingdom,North Somerset,16/04/2020,-71,-31,12,-79,-67,28
+United Kingdom,North Yorkshire,16/04/2020,-73,-29,-20,-61,-65,25
+United Kingdom,Northamptonshire,16/04/2020,-68,-22,-17,-59,-63,27
+United Kingdom,Northumberland,16/04/2020,-70,-20,-29,-50,-64,24
+United Kingdom,Nottingham,16/04/2020,-80,-29,37,-74,-68,25
+United Kingdom,Nottinghamshire,16/04/2020,-70,-25,5,-51,-66,26
+United Kingdom,Orkney,16/04/2020,,,,,-65,
+United Kingdom,Oxfordshire,16/04/2020,-76,-30,-2,-73,-72,31
+United Kingdom,Pembrokeshire,16/04/2020,-73,-33,-42,-44,-61,
+United Kingdom,Perth and Kinross,16/04/2020,-79,-33,-26,-65,-71,26
+United Kingdom,Peterborough,16/04/2020,-66,-25,,-69,-61,24
+United Kingdom,Plymouth,16/04/2020,-76,-33,-2,-66,-66,25
+United Kingdom,Portsmouth,16/04/2020,-77,-28,4,-66,-66,27
+United Kingdom,Powys,16/04/2020,-71,-28,-18,-46,-61,23
+United Kingdom,Reading,16/04/2020,-80,-26,19,-86,-75,33
+United Kingdom,Redcar and Cleveland,16/04/2020,-72,-24,,-40,-60,22
+United Kingdom,Renfrewshire,16/04/2020,-73,-24,-8,-80,-72,28
+United Kingdom,Rhondda Cynon Taff,16/04/2020,-67,-27,-6,-55,-67,25
+United Kingdom,Rutland,16/04/2020,,,,,-69,
+United Kingdom,Scottish Borders,16/04/2020,-73,-32,-27,-38,-65,
+United Kingdom,Shetland Islands,16/04/2020,,,,-54,-63,
+United Kingdom,Shropshire,16/04/2020,-70,-28,-9,-54,-64,25
+United Kingdom,Slough,16/04/2020,-65,-26,9,-78,-68,29
+United Kingdom,Somerset,16/04/2020,-71,-29,-17,-54,-61,25
+United Kingdom,South Ayrshire Council,16/04/2020,-74,-28,-22,-63,-66,
+United Kingdom,South Gloucestershire,16/04/2020,-68,-26,43,-65,-69,30
+United Kingdom,South Lanarkshire,16/04/2020,-64,-22,0,-63,-70,27
+United Kingdom,South Yorkshire,16/04/2020,-72,-24,10,-63,-64,25
+United Kingdom,Southampton,16/04/2020,-76,-26,-6,-66,-67,27
+United Kingdom,Southend-on-Sea,16/04/2020,-75,-18,30,-74,-69,28
+United Kingdom,Staffordshire,16/04/2020,-69,-22,4,-58,-67,27
+United Kingdom,Stirling,16/04/2020,-79,-32,-44,-76,-74,
+United Kingdom,Stockton-on-Tees,16/04/2020,-66,-26,-16,-60,-64,25
+United Kingdom,Stoke-on-Trent,16/04/2020,-69,-22,21,-68,-62,24
+United Kingdom,Suffolk,16/04/2020,-73,-30,-9,-56,-64,26
+United Kingdom,Surrey,16/04/2020,-73,-30,-17,-72,-75,32
+United Kingdom,Swansea,16/04/2020,-71,-35,15,-66,-66,25
+United Kingdom,Swindon,16/04/2020,-70,-25,,-65,-69,29
+United Kingdom,Thurrock,16/04/2020,-72,-31,-22,-64,-65,28
+United Kingdom,Torbay,16/04/2020,-74,-25,10,-54,-63,22
+United Kingdom,Torfaen Principal Area,16/04/2020,-66,-20,,-43,-65,
+United Kingdom,Tyne and Wear,16/04/2020,-72,-26,-11,-67,-68,26
+United Kingdom,Vale of Glamorgan,16/04/2020,-68,-27,-4,-63,-70,27
+United Kingdom,Warrington,16/04/2020,-72,-22,,-66,-67,27
+United Kingdom,Warwickshire,16/04/2020,-72,-23,8,-62,-69,28
+United Kingdom,West Berkshire,16/04/2020,-75,-34,-15,-71,-74,31
+United Kingdom,West Dunbartonshire Council,16/04/2020,-66,-21,,-58,-69,
+United Kingdom,West Lothian,16/04/2020,-62,-15,-14,-61,-69,28
+United Kingdom,West Midlands,16/04/2020,-71,-24,7,-72,-69,27
+United Kingdom,West Sussex,16/04/2020,-70,-27,12,-81,-68,27
+United Kingdom,West Yorkshire,16/04/2020,-70,-24,13,-68,-68,27
+United Kingdom,Wiltshire,16/04/2020,-70,-30,-15,-57,-68,28
+United Kingdom,Windsor and Maidenhead,16/04/2020,-79,-28,-40,-74,-76,
+United Kingdom,Wokingham,16/04/2020,-68,-36,,-70,-80,33
+United Kingdom,Worcestershire,16/04/2020,-72,-27,21,-61,-68,27
+United Kingdom,Wrexham Principal Area,16/04/2020,-68,-21,-12,-51,-60,24
+United Kingdom,York,16/04/2020,-76,-34,-18,-78,-74,28
+Georgia,Total,16/04/2020,-67,-35,-26,-60,-63,22
+Ghana,Total,16/04/2020,-49,-37,-29,-57,-46,27
+Greece,Total,16/04/2020,-68,26,-22,-61,-56,22
+Greece,Crete Region,16/04/2020,-68,17,-36,-66,-52,19
+Greece,Decentralized Administration of Attica,16/04/2020,-70,27,-26,-62,-62,26
+Greece,Decentralized Administration of Epirus and Western Macedonia,16/04/2020,-71,19,-25,-52,-53,18
+Greece,Decentralized Administration of Macedonia and Thrace,16/04/2020,-70,27,-24,-68,-55,19
+Greece,"Decentralized Administration of Peloponnese, Western Greece and the Ionian",16/04/2020,-64,27,-15,-54,-49,17
+Greece,Decentralized Administration of the Aegean,16/04/2020,-64,23,-9,-46,-45,16
+Greece,Decentralized Administration of Thessaly and Central Greece,16/04/2020,-67,31,-2,-53,-50,18
+Guatemala,Total,16/04/2020,-56,-34,-47,-68,-50,29
+Guinea-Bissau,Total,16/04/2020,,,-14,,-31,
+Hong Kong,Total,16/04/2020,-24,-6,-7,-29,-12,12
+Honduras,Total,16/04/2020,-72,-45,-49,-66,-62,27
+Croatia,Total,16/04/2020,-62,-32,3,-67,-55,20
+Croatia,Bjelovar-Bilogora County,16/04/2020,-59,-33,39,-72,-48,15
+Croatia,Brod-Posavina County,16/04/2020,-56,-31,,-76,-47,14
+Croatia,City of Zagreb,16/04/2020,-65,-38,13,-71,-63,25
+Croatia,Dubrovnik-Neretva County,16/04/2020,-64,-34,-15,-57,-57,18
+Croatia,Istria County,16/04/2020,-55,-29,4,-57,-49,18
+Croatia,Karlovac County,16/04/2020,-64,-33,52,-61,-49,18
+Croatia,Koprivnica-Križevci County,16/04/2020,-59,-33,,,-50,17
+Croatia,Krapina-Zagorje County,16/04/2020,-63,-26,,-60,-50,21
+Croatia,Lika-Senj County,16/04/2020,,,,-68,-48,
+Croatia,Međimurje County,16/04/2020,-54,-31,,-74,-42,17
+Croatia,Osijek-Baranja County,16/04/2020,-61,-30,,-68,-51,16
+Croatia,Požega-Slavonia County,16/04/2020,-60,,,,-52,
+Croatia,Primorje-Gorski Kotar County,16/04/2020,-66,-32,-13,-66,-54,20
+Croatia,Šibenik-Knin County,16/04/2020,-60,-25,6,-61,-53,
+Croatia,Sisak-Moslavina County,16/04/2020,-52,-30,,-56,-49,17
+Croatia,Split-Dalmatia County,16/04/2020,-67,-31,-11,-70,-58,20
+Croatia,Varaždin County,16/04/2020,-61,-27,,-82,-48,19
+Croatia,Virovitica-Podravina County,16/04/2020,-54,,,,-44,
+Croatia,Vukovar-Srijem County,16/04/2020,-61,-19,,-52,-49,15
+Croatia,Zadar County,16/04/2020,-61,-29,7,-63,-51,18
+Croatia,Zagreb County,16/04/2020,-59,-30,0,-63,-54,22
+Haiti,Total,16/04/2020,-31,-28,-17,-52,-34,11
+Hungary,Total,16/04/2020,-44,-15,-4,-50,-46,19
+Hungary,Bács-Kiskun,16/04/2020,-35,-11,24,-37,-37,15
+Hungary,Baranya,16/04/2020,-43,-16,32,-38,-43,16
+Hungary,Békés County,16/04/2020,-33,-11,,-35,-37,14
+Hungary,Borsod-Abaúj-Zemplén,16/04/2020,-35,-12,29,-30,-39,15
+Hungary,Budapest,16/04/2020,-60,-23,-31,-65,-58,25
+Hungary,Csongrád,16/04/2020,-45,-19,-15,-40,-45,18
+Hungary,Fejér,16/04/2020,-36,-15,10,-45,-45,18
+Hungary,Gyor-Moson-Sopron,16/04/2020,-40,-16,-7,-47,-47,19
+Hungary,Hajdú-Bihar,16/04/2020,-41,-12,7,-46,-41,17
+Hungary,Heves County,16/04/2020,-35,-13,-7,-36,-39,15
+Hungary,Jász-Nagykun-Szolnok,16/04/2020,-28,-5,32,-32,-36,14
+Hungary,Komárom-Esztergom,16/04/2020,-32,-12,43,-37,-41,17
+Hungary,Nógrád County,16/04/2020,-28,-5,,-23,-38,14
+Hungary,Pest County,16/04/2020,-30,-10,42,-40,-48,21
+Hungary,Somogy County,16/04/2020,-26,-11,23,-25,-38,14
+Hungary,Szabolcs-Szatmár-Bereg,16/04/2020,-34,-18,11,-31,-37,14
+Hungary,Tolna County,16/04/2020,-29,-15,,-34,-40,15
+Hungary,Vas County,16/04/2020,-40,-16,25,-38,-40,17
+Hungary,Veszprém,16/04/2020,-32,-12,40,-33,-42,17
+Hungary,Zala County,16/04/2020,-37,-15,-3,-36,-39,15
+Indonesia,Total,16/04/2020,-34,-18,-29,-56,-36,17
+Indonesia,Aceh,16/04/2020,-18,-7,-16,-44,-22,9
+Indonesia,Bali,16/04/2020,-45,-35,-58,-70,-42,20
+Indonesia,Bangka Belitung Islands,16/04/2020,-34,-13,-21,-63,-28,13
+Indonesia,Banten,16/04/2020,-33,-17,-22,-65,-37,20
+Indonesia,Bengkulu,16/04/2020,-26,-17,-25,-54,-30,13
+Indonesia,Central Java,16/04/2020,-23,-11,-23,-46,-31,14
+Indonesia,Central Kalimantan,16/04/2020,-29,-14,-25,-38,-25,10
+Indonesia,Central Sulawesi,16/04/2020,-33,-18,-4,-51,-25,13
+Indonesia,East Java,16/04/2020,-27,-15,-29,-47,-30,15
+Indonesia,East Kalimantan,16/04/2020,-33,-16,-27,-51,-27,14
+Indonesia,East Nusa Tenggara,16/04/2020,-38,-20,-25,-44,-28,14
+Indonesia,Gorontalo,16/04/2020,-29,-16,-14,-27,-32,16
+Indonesia,Jakarta,16/04/2020,-55,-29,-51,-69,-51,24
+Indonesia,Jambi,16/04/2020,-28,-14,-26,-52,-27,12
+Indonesia,Lampung,16/04/2020,-21,-8,-20,-40,-32,12
+Indonesia,Maluku,16/04/2020,-33,-15,-13,-33,-32,12
+Indonesia,North Kalimantan,16/04/2020,-35,-15,-27,-41,-24,12
+Indonesia,North Maluku,16/04/2020,-29,-6,-21,-50,-23,11
+Indonesia,North Sulawesi,16/04/2020,-45,-25,-27,-52,-35,17
+Indonesia,North Sumatra,16/04/2020,-37,-22,-34,-50,-31,15
+Indonesia,Papua,16/04/2020,-41,-32,-26,-56,-28,15
+Indonesia,Riau,16/04/2020,-31,-19,-12,-48,-25,12
+Indonesia,Riau Islands,16/04/2020,-38,-19,-30,-63,-22,15
+Indonesia,South East Sulawesi,16/04/2020,-31,-15,-15,-48,-25,12
+Indonesia,South Kalimantan,16/04/2020,-28,-14,-24,-50,-27,13
+Indonesia,South Sulawesi,16/04/2020,-41,-21,-22,-55,-37,16
+Indonesia,South Sumatra,16/04/2020,-29,-16,-17,-45,-30,13
+Indonesia,Special Region of Yogyakarta,16/04/2020,-45,-29,-50,-68,-41,18
+Indonesia,West Java,16/04/2020,-33,-17,-24,-54,-39,19
+Indonesia,West Kalimantan,16/04/2020,-43,-24,-24,-45,-28,13
+Indonesia,West Nusa Tenggara,16/04/2020,-36,-21,-38,-55,-29,15
+Indonesia,West Papua,16/04/2020,-36,-18,-42,-65,-29,14
+Indonesia,West Sulawesi,16/04/2020,-29,-19,-40,-52,-32,13
+Indonesia,West Sumatra,16/04/2020,-37,-21,-44,-51,-36,15
+India,Total,16/04/2020,-85,-44,-60,-65,-65,30
+Iraq,Total,16/04/2020,-59,-32,-40,-54,-46,20
+Italy,Total,16/04/2020,-79,-37,-75,-76,-63,31
+Italy,Abruzzo,16/04/2020,-78,-37,-74,-78,-63,29
+Italy,Aosta,16/04/2020,-86,-41,-74,-72,-61,30
+Italy,Apulia,16/04/2020,-77,-39,-74,-79,-61,27
+Italy,Basilicata,16/04/2020,-77,-40,-58,-70,-60,25
+Italy,Calabria,16/04/2020,-80,-43,-71,-78,-62,26
+Italy,Campania,16/04/2020,-82,-42,-78,-78,-66,29
+Italy,Emilia-Romagna,16/04/2020,-78,-33,-73,-74,-59,32
+Italy,Friuli-Venezia Giulia,16/04/2020,-79,-30,-73,-70,-57,30
+Italy,Lazio,16/04/2020,-79,-38,-79,-80,-68,33
+Italy,Liguria,16/04/2020,-77,-39,-75,-72,-61,30
+Italy,Lombardy,16/04/2020,-82,-38,-75,-82,-67,34
+Italy,Marche,16/04/2020,-79,-37,-75,-70,-64,33
+Italy,Molise,16/04/2020,-76,-42,-71,-68,-61,27
+Italy,Piedmont,16/04/2020,-79,-35,-72,-75,-64,32
+Italy,Sardinia,16/04/2020,-78,-39,-71,-70,-58,26
+Italy,Sicily,16/04/2020,-79,-42,-75,-78,-63,27
+Italy,Trentino-South Tyrol,16/04/2020,-81,-45,-78,-74,-60,30
+Italy,Tuscany,16/04/2020,-78,-39,-76,-72,-63,32
+Italy,Umbria,16/04/2020,-78,-39,-66,-66,-58,30
+Italy,Veneto,16/04/2020,-77,-29,-71,-75,-57,30
+Jamaica,Total,16/04/2020,-52,-32,-52,-57,-51,26
+Jordan,Total,16/04/2020,-63,-29,-54,-88,-64,27
+Japan,Total,16/04/2020,-27,5,9,-43,-22,12
+Japan,Aichi,16/04/2020,-22,5,20,-42,-18,11
+Japan,Akita,16/04/2020,-8,6,54,-23,-7,5
+Japan,Aomori,16/04/2020,-10,6,19,-24,-8,4
+Japan,Chiba,16/04/2020,-29,6,14,-49,-33,18
+Japan,Ehime,16/04/2020,-17,3,14,-28,-8,6
+Japan,Fukui,16/04/2020,-24,2,33,-33,-14,10
+Japan,Fukuoka,16/04/2020,-26,2,27,-49,-24,13
+Japan,Fukushima,16/04/2020,-13,5,24,-27,-7,6
+Japan,Gifu,16/04/2020,-22,4,9,-37,-15,10
+Japan,Gunma,16/04/2020,-16,3,12,-37,-13,9
+Japan,Hiroshima,16/04/2020,-20,6,13,-35,-12,8
+Japan,Hokkaido,16/04/2020,-17,4,-2,-32,-10,6
+Japan,Hyogo,16/04/2020,-28,7,20,-42,-24,13
+Japan,Ibaraki,16/04/2020,-16,3,-9,-44,-15,11
+Japan,Ishikawa,16/04/2020,-25,4,12,-47,-17,11
+Japan,Iwate,16/04/2020,-7,8,37,-23,-5,4
+Japan,Kagawa,16/04/2020,-19,2,4,-33,-10,8
+Japan,Kagoshima,16/04/2020,-10,4,6,-26,-6,4
+Japan,Kanagawa,16/04/2020,-33,7,18,-49,-38,20
+Japan,Kochi,16/04/2020,-21,-1,8,-25,-12,7
+Japan,Kumamoto,16/04/2020,-15,3,10,-28,-11,7
+Japan,Kyoto,16/04/2020,-26,4,7,-44,-21,10
+Japan,Mie,16/04/2020,-16,6,2,-37,-10,8
+Japan,Miyagi,16/04/2020,-20,5,18,-40,-14,9
+Japan,Miyazaki,16/04/2020,-14,4,9,-25,-7,5
+Japan,Nagano,16/04/2020,-19,3,13,-37,-11,7
+Japan,Nagasaki,16/04/2020,-13,7,0,-26,-7,5
+Japan,Nara,16/04/2020,-14,10,18,-34,-18,10
+Japan,Niigata,16/04/2020,-9,6,30,-33,-9,5
+Japan,Oita,16/04/2020,-15,4,-3,-26,-9,6
+Japan,Okayama,16/04/2020,-12,5,12,-29,-7,5
+Japan,Okinawa,16/04/2020,-29,-4,-21,-52,-18,11
+Japan,Osaka,16/04/2020,-36,4,22,-46,-27,14
+Japan,Saga,16/04/2020,-11,4,2,-33,-9,6
+Japan,Saitama,16/04/2020,-24,7,16,-47,-30,17
+Japan,Shiga,16/04/2020,-13,6,34,-38,-15,9
+Japan,Shimane,16/04/2020,-15,8,6,-21,-9,6
+Japan,Shizuoka,16/04/2020,-16,5,7,-36,-11,8
+Japan,Tochigi,16/04/2020,-17,5,7,-41,-13,9
+Japan,Tokushima,16/04/2020,-14,4,13,-21,-8,6
+Japan,Tokyo,16/04/2020,-52,-1,-8,-56,-46,24
+Japan,Tottori,16/04/2020,-13,9,5,-26,-7,5
+Japan,Toyama,16/04/2020,-20,5,8,-37,-11,8
+Japan,Wakayama,16/04/2020,-17,3,21,-31,-11,7
+Japan,Yamagata,16/04/2020,-15,4,59,-38,-11,7
+Japan,Yamaguchi,16/04/2020,-16,5,17,-28,-11,7
+Japan,Yamanashi,16/04/2020,-20,2,-15,-40,-12,8
+Kenya,Total,16/04/2020,-43,-32,-28,-41,-38,24
+Kenya,Baringo County,16/04/2020,,,,,-32,
+Kenya,Bomet County,16/04/2020,,,,,-27,
+Kenya,Bungoma County,16/04/2020,,,,-17,-30,
+Kenya,Busia County,16/04/2020,,,,,-13,
+Kenya,Embu County,16/04/2020,,,,-53,-33,
+Kenya,Garissa County,16/04/2020,,,,,-6,
+Kenya,Homa Bay County,16/04/2020,,,,,-17,
+Kenya,Kajiado County,16/04/2020,-35,-25,-32,-30,-39,29
+Kenya,Kakamega County,16/04/2020,,,,-19,-24,
+Kenya,Kericho County,16/04/2020,,,,,-25,
+Kenya,Kiambu County,16/04/2020,-34,-33,-12,-34,-43,26
+Kenya,Kilifi County,16/04/2020,-44,-40,-49,-32,-37,20
+Kenya,Kirinyaga County,16/04/2020,,,19,,-30,
+Kenya,Kisii County,16/04/2020,,,,-20,-34,
+Kenya,Kisumu County,16/04/2020,-43,-11,-45,-48,-32,20
+Kenya,Kitui County,16/04/2020,,,5,-46,-33,
+Kenya,Kwale County,16/04/2020,,,,,-28,
+Kenya,Laikipia County,16/04/2020,,,,-54,-27,
+Kenya,Machakos County,16/04/2020,-50,20,-48,-34,-38,28
+Kenya,Makueni County,16/04/2020,,,,-22,-27,
+Kenya,Meru County,16/04/2020,,-25,,-23,-36,
+Kenya,Migori County,16/04/2020,,,,-53,-19,
+Kenya,Mombasa County,16/04/2020,-44,-38,-36,-47,-32,21
+Kenya,Muranga County,16/04/2020,,,,-75,-31,
+Kenya,Nairobi County,16/04/2020,-50,-41,-56,-48,-43,28
+Kenya,Nakuru County,16/04/2020,-34,-25,-35,-44,-29,17
+Kenya,Nandi County,16/04/2020,,,,,-31,
+Kenya,Narok County,16/04/2020,,,46,-51,-22,
+Kenya,Nyandarua County,16/04/2020,,,,,-18,
+Kenya,Nyeri County,16/04/2020,-33,-32,28,,-33,
+Kenya,Siaya,16/04/2020,,,,,-23,
+Kenya,Taita-Taveta County,16/04/2020,,,,,-18,
+Kenya,Tharaka-Nithi County,16/04/2020,,,,,-50,
+Kenya,Trans-Nzoia County,16/04/2020,,,,-22,-20,
+Kenya,Turkana County,16/04/2020,,,,,-11,
+Kenya,Uasin Gishu County,16/04/2020,-30,-46,-23,-50,-36,16
+Kenya,Vihiga County,16/04/2020,,,,-34,-38,
+Kyrgyzstan,Total,16/04/2020,-71,-58,-31,-69,-65,23
+Cambodia,Total,16/04/2020,-46,-34,-26,-64,-36,14
+South Korea,Total,16/04/2020,-17,-2,33,-13,-4,6
+Kuwait,Total,16/04/2020,-66,-43,-56,-59,-54,33
+Kuwait,Al Ahmadi Governorate,16/04/2020,-65,-41,-48,-43,-52,34
+Kuwait,Al Asimah Governate,16/04/2020,-74,-47,-66,-58,-56,27
+Kuwait,Al Farwaniyah Governorate,16/04/2020,-61,-50,-58,-69,-58,41
+Kuwait,Al Jahra Governorate,16/04/2020,-57,-37,-37,-24,-35,24
+Kuwait,Hawalli Governorate,16/04/2020,-67,-39,-60,-44,-57,31
+Kuwait,Mubarak Al-Kabeer Governorate,16/04/2020,-62,-40,-57,-33,-53,26
+Kazakhstan,Total,16/04/2020,-57,-36,-25,-47,-56,20
+Laos,Total,16/04/2020,-59,-41,-12,-67,-60,18
+Lebanon,Total,16/04/2020,-54,-24,-24,-73,-54,15
+Liechtenstein,Total,16/04/2020,,,,-38,-40,
+Sri Lanka,Total,16/04/2020,-71,-59,-37,-57,-66,35
+Lithuania,Total,16/04/2020,-57,-18,2,-56,-53,22
+Lithuania,Alytus County,16/04/2020,-53,-18,16,,-48,19
+Lithuania,Kaunas County,16/04/2020,-56,-18,-7,-58,-51,21
+Lithuania,Klaipėda County,16/04/2020,-53,-4,3,-23,-50,19
+Lithuania,Marijampolė County,16/04/2020,-53,-26,,-37,-49,19
+Lithuania,Panevėžys County,16/04/2020,-53,-11,-5,-55,-47,18
+Lithuania,Šiauliai County,16/04/2020,-55,-19,3,-21,-47,18
+Lithuania,Tauragė County,16/04/2020,-40,,,,-46,
+Lithuania,Telšiai County,16/04/2020,-51,-15,,,-46,15
+Lithuania,Utena County,16/04/2020,-43,2,35,-21,-44,16
+Lithuania,Vilnius County,16/04/2020,-61,-22,4,-64,-59,27
+Luxembourg,Total,16/04/2020,-81,-26,-26,-68,-73,33
+Latvia,Total,16/04/2020,-33,-15,-14,-46,-42,17
+Latvia,Ādaži Municipality,16/04/2020,,,,,-47,
+Latvia,Alūksne Municipality,16/04/2020,,,,,-34,
+Latvia,Babīte Municipality,16/04/2020,,,,,-46,
+Latvia,Bauska Municipality,16/04/2020,,,,,-40,
+Latvia,Carnikava Municipality,16/04/2020,,,,,-53,
+Latvia,Cēsis Municipality,16/04/2020,,,,,-38,
+Latvia,City of Liepāja,16/04/2020,-27,,,-26,-40,13
+Latvia,Daugavpils,16/04/2020,-23,-25,,-44,-33,
+Latvia,Daugavpils Municipality,16/04/2020,,,,,-37,
+Latvia,Dobele Municipality,16/04/2020,,,,,-34,
+Latvia,Engure Municipality,16/04/2020,,,,,-40,
+Latvia,Garkalne Municipality,16/04/2020,,,,,-50,
+Latvia,Gulbene Municipality,16/04/2020,,,,,-35,
+Latvia,Iecava Municipality,16/04/2020,,,,,-39,
+Latvia,Ikšķile Municipality,16/04/2020,,,,,-46,
+Latvia,Jēkabpils,16/04/2020,,,,,-32,
+Latvia,Jelgava,16/04/2020,-30,,,-51,-37,
+Latvia,Jelgava Municipality,16/04/2020,,,,,-38,
+Latvia,Jūrmala,16/04/2020,,,,-37,-45,
+Latvia,Ķekava Municipality,16/04/2020,,,,,-49,
+Latvia,Kocēni Municipality,16/04/2020,,,,,-39,
+Latvia,Kuldīga Municipality,16/04/2020,,,,,-38,
+Latvia,Limbaži Municipality,16/04/2020,,,,,-32,
+Latvia,Madona Municipality,16/04/2020,,,,,-39,
+Latvia,Mārupe Municipality,16/04/2020,-32,,,-88,-53,
+Latvia,Ogre Municipality,16/04/2020,,,,,-42,
+Latvia,Olaine Municipality,16/04/2020,,,,,-38,
+Latvia,Ozolnieki Municipality,16/04/2020,,,,,-44,
+Latvia,Rēzekne,16/04/2020,,,,,-36,
+Latvia,Rēzekne Municipality,16/04/2020,,,,,-47,
+Latvia,Riga,16/04/2020,-40,-20,-45,-52,-46,19
+Latvia,Ropaži Municipality,16/04/2020,,,,,-46,
+Latvia,Salaspils Municipality,16/04/2020,,,,,-44,
+Latvia,Saldus Municipality,16/04/2020,,,,,-36,
+Latvia,Saulkrasti Municipality,16/04/2020,,,,,-51,
+Latvia,Sigulda Municipality,16/04/2020,,,,,-41,
+Latvia,Smiltene Municipality,16/04/2020,,,,,-33,
+Latvia,Stopiņi Municipality,16/04/2020,,,,,-51,
+Latvia,Talsi Municipality,16/04/2020,,,,,-36,
+Latvia,Tukums Municipality,16/04/2020,,,,,-37,
+Latvia,Valmiera,16/04/2020,,,,,-34,
+Latvia,Ventspils,16/04/2020,,,,,-38,
+Latvia,Ventspils Municipality,16/04/2020,,,,,-46,
+Libya,Total,16/04/2020,-35,-8,-19,-41,-32,14
+Moldova,Total,16/04/2020,-49,-23,-24,-52,-55,18
+North Macedonia,Total,16/04/2020,-52,-4,-5,-54,-55,19
+Mali,Total,16/04/2020,-18,-11,-4,-33,-12,10
+Myanmar (Burma),Total,16/04/2020,-73,-64,-23,-72,-68,29
+Mongolia,Total,16/04/2020,-9,8,-4,-7,-3,4
+Malta,Total,16/04/2020,-63,-28,-36,-50,-57,26
+Mauritius,Total,16/04/2020,-80,-61,-74,-85,-82,34
+Mauritius,Flacq District,16/04/2020,-74,,-72,,-82,
+Mauritius,Grand Port District,16/04/2020,,,-72,-89,-81,
+Mauritius,Moka District,16/04/2020,-87,,,-84,-83,
+Mauritius,Pamplemousses District,16/04/2020,,-49,-85,,-82,
+Mauritius,Plaines Wilhems District,16/04/2020,-83,-65,,-90,-85,36
+Mauritius,Port Louis District,16/04/2020,-89,-75,-88,-86,-81,
+Mauritius,Rivière du Rempart District,16/04/2020,-80,,-89,,-83,
+Mauritius,Rivière Noire District,16/04/2020,-85,-58,-82,-79,-84,
+Mauritius,Rodrigues District,16/04/2020,,,,,-25,
+Mauritius,Savanne District,16/04/2020,,,,,-81,
+Mexico,Total,16/04/2020,-51,-15,-45,-57,-51,22
+Mexico,Aguascalientes,16/04/2020,-51,-6,-32,-60,-50,22
+Mexico,Baja California,16/04/2020,-55,-13,-39,-62,-52,24
+Mexico,Baja California Sur,16/04/2020,-66,-25,-64,-74,-59,27
+Mexico,Campeche,16/04/2020,-53,-20,-53,-54,-53,23
+Mexico,Chiapas,16/04/2020,-50,-16,-43,-55,-45,18
+Mexico,Chihuahua,16/04/2020,-51,-12,-37,-59,-50,21
+Mexico,Coahuila,16/04/2020,-52,-16,-49,-50,-53,23
+Mexico,Colima,16/04/2020,-44,-8,-34,-55,-38,17
+Mexico,Durango,16/04/2020,-43,-15,-42,-41,-45,17
+Mexico,Guanajuato,16/04/2020,-47,-11,-42,-47,-47,20
+Mexico,Guerrero,16/04/2020,-54,-20,-45,-55,-48,17
+Mexico,Hidalgo,16/04/2020,-40,-14,-35,-54,-49,19
+Mexico,Jalisco,16/04/2020,-48,-14,-39,-58,-47,20
+Mexico,Mexico City,16/04/2020,-63,-25,-56,-63,-60,27
+Mexico,Michoacán,16/04/2020,-43,-13,-26,-42,-39,14
+Mexico,Morelos,16/04/2020,-46,-16,-42,-46,-47,19
+Mexico,Nayarit,16/04/2020,-56,-20,-55,-51,-50,19
+Mexico,Nuevo Leon,16/04/2020,-53,-16,-51,-61,-52,26
+Mexico,Oaxaca,16/04/2020,-50,-24,-49,-50,-46,17
+Mexico,Puebla,16/04/2020,-50,-13,-38,-41,-51,20
+Mexico,Querétaro,16/04/2020,-53,-14,-44,-35,-51,24
+Mexico,Quintana Roo,16/04/2020,-71,-33,-69,-84,-64,32
+Mexico,San Luis Potosi,16/04/2020,-48,-12,-46,-53,-51,21
+Mexico,Sinaloa,16/04/2020,-56,-20,-47,-62,-54,23
+Mexico,Sonora,16/04/2020,-60,-25,-47,-58,-57,23
+Mexico,State of Mexico,16/04/2020,-42,-6,-32,-53,-49,21
+Mexico,Tabasco,16/04/2020,-54,-25,-43,-51,-51,21
+Mexico,Tamaulipas,16/04/2020,-48,-12,-48,-49,-49,21
+Mexico,Tlaxcala,16/04/2020,-38,-12,-34,-41,-48,18
+Mexico,Veracruz,16/04/2020,-43,-11,-38,-46,-42,16
+Mexico,Yucatan,16/04/2020,-62,-31,-60,-73,-57,29
+Mexico,Zacatecas,16/04/2020,-50,-21,-46,-55,-49,18
+Malaysia,Total,16/04/2020,-79,-42,-54,-77,-63,39
+Mozambique,Total,16/04/2020,-30,-23,-31,-31,-18,13
+Namibia,Total,16/04/2020,-50,-27,-39,-67,-53,24
+Niger,Total,16/04/2020,-19,-7,-15,-32,-20,13
+Nigeria,Total,16/04/2020,-54,-39,-46,-54,-51,29
+Nigeria,Abia,16/04/2020,-51,-52,-2,-55,-49,19
+Nigeria,Adamawa,16/04/2020,,,,,-16,
+Nigeria,Akwa Ibom,16/04/2020,-59,-41,-56,-74,-48,25
+Nigeria,Anambra,16/04/2020,-50,-55,-40,-57,-53,25
+Nigeria,Bauchi,16/04/2020,,,2,,-8,
+Nigeria,Bayelsa,16/04/2020,,,-6,,-21,
+Nigeria,Benue,16/04/2020,,,,,-27,
+Nigeria,Borno,16/04/2020,,,-32,-4,-19,5
+Nigeria,Cross River,16/04/2020,,-19,9,-39,-25,13
+Nigeria,Delta,16/04/2020,-59,-54,-31,-61,-46,30
+Nigeria,Ebonyi,16/04/2020,,,,,-24,
+Nigeria,Edo,16/04/2020,-47,-28,-31,-37,-33,18
+Nigeria,Ekiti,16/04/2020,,,,-53,-32,
+Nigeria,Enugu,16/04/2020,-51,-36,-41,-42,-41,19
+Nigeria,Federal Capital Territory,16/04/2020,-70,-59,-67,-84,-65,41
+Nigeria,Gombe,16/04/2020,,,,,-18,
+Nigeria,Imo,16/04/2020,-48,-37,-47,-57,-37,17
+Nigeria,Jigawa,16/04/2020,,,,,-17,
+Nigeria,Kaduna,16/04/2020,-59,-44,-40,-38,-49,25
+Nigeria,Kano,16/04/2020,-10,-2,-5,-24,-22,3
+Nigeria,Katsina,16/04/2020,,,-22,,-8,
+Nigeria,Kebbi,16/04/2020,,,,,-21,
+Nigeria,Kogi,16/04/2020,,,,,-17,
+Nigeria,Kwara,16/04/2020,-66,-62,,-70,-56,26
+Nigeria,Lagos,16/04/2020,-70,-54,-70,-59,-68,42
+Nigeria,Nasarawa,16/04/2020,,-18,,,-49,17
+Nigeria,Niger,16/04/2020,,23,,,-33,8
+Nigeria,Ogun State,16/04/2020,-47,-40,-28,-48,-57,31
+Nigeria,Ondo,16/04/2020,-41,-38,-35,-25,-33,15
+Nigeria,Osun,16/04/2020,-27,11,9,15,-37,3
+Nigeria,Oyo,16/04/2020,-38,-26,-31,-32,-35,17
+Nigeria,Plateau,16/04/2020,,,,-19,-30,7
+Nigeria,Rivers,16/04/2020,-29,-17,-16,-40,-29,21
+Nigeria,Sokoto,16/04/2020,,,,,-8,
+Nigeria,Taraba,16/04/2020,,,,,-22,
+Nigeria,Yobe,16/04/2020,,,,,-8,
+Nigeria,Zamfara,16/04/2020,,,-22,,0,
+Nicaragua,Total,16/04/2020,-25,-11,-15,-26,-22,10
+Netherlands,Total,16/04/2020,-40,-11,43,-60,-48,18
+Netherlands,Drenthe,16/04/2020,-31,-9,48,-54,-42,15
+Netherlands,Flevoland,16/04/2020,-34,-8,95,-60,-48,18
+Netherlands,Friesland,16/04/2020,-35,-14,62,-46,-42,14
+Netherlands,Gelderland,16/04/2020,-36,-8,50,-55,-45,17
+Netherlands,Groningen,16/04/2020,-44,-16,60,-61,-49,17
+Netherlands,Limburg,16/04/2020,-43,-8,42,-48,-45,16
+Netherlands,North Brabant,16/04/2020,-38,-9,51,-61,-44,18
+Netherlands,North Holland,16/04/2020,-46,-14,29,-70,-54,20
+Netherlands,Overijssel,16/04/2020,-40,-11,74,-63,-45,17
+Netherlands,South Holland,16/04/2020,-39,-9,43,-60,-50,19
+Netherlands,Utrecht,16/04/2020,-43,-12,48,-72,-56,22
+Netherlands,Zeeland,16/04/2020,-38,-8,19,-45,-40,15
+Norway,Total,16/04/2020,-28,-2,53,-48,-46,17
+Norway,Agder,16/04/2020,-23,-3,64,-22,-44,15
+Norway,Innlandet,16/04/2020,-28,-9,9,-42,-41,15
+Norway,Møre og Romsdal,16/04/2020,-28,-4,23,-32,-40,15
+Norway,Nordland,16/04/2020,-27,-1,3,-57,-38,13
+Norway,Oslo,16/04/2020,-43,-1,61,-58,-62,23
+Norway,Rogaland,16/04/2020,-25,-4,71,-45,-43,16
+Norway,Troms Og Finnmark,16/04/2020,-38,-7,46,-54,-40,12
+Norway,Trondelag,16/04/2020,-31,-7,24,-58,-48,19
+Norway,Vestfold Og Telemark,16/04/2020,-17,1,83,-33,-42,14
+Norway,Vestland,16/04/2020,-30,-8,20,-41,-45,16
+Norway,Viken,16/04/2020,-17,5,107,-54,-48,17
+Nepal,Total,16/04/2020,-78,-68,-52,-73,-70,26
+New Zealand,Total,16/04/2020,-89,-35,-75,-86,-72,34
+New Zealand,Auckland,16/04/2020,-87,-33,-72,-89,-77,39
+New Zealand,Bay Of Plenty,16/04/2020,-89,-33,-85,-79,-66,30
+New Zealand,Canterbury,16/04/2020,-85,-34,-69,-84,-70,33
+New Zealand,Gisborne,16/04/2020,-96,,-79,,-57,
+New Zealand,Hawke's Bay,16/04/2020,-91,-38,-68,-84,-59,27
+New Zealand,Manawatu-Wanganui,16/04/2020,-93,-32,-77,-74,-63,28
+New Zealand,Marlborough,16/04/2020,-92,-41,-74,-86,-57,
+New Zealand,Nelson,16/04/2020,-95,-36,-75,,-69,
+New Zealand,Northland,16/04/2020,-89,-36,-83,,-66,29
+New Zealand,Otago,16/04/2020,-94,-46,-80,-87,-72,34
+New Zealand,Southland,16/04/2020,-92,-41,-84,,-60,
+New Zealand,Taranaki,16/04/2020,-92,-29,-82,,-65,
+New Zealand,Tasman,16/04/2020,-84,,-84,,-61,
+New Zealand,Waikato,16/04/2020,-91,-37,-82,-79,-69,32
+New Zealand,Wellington,16/04/2020,-91,-32,-54,-86,-80,37
+New Zealand,West Coast,16/04/2020,,,-88,,-59,
+Oman,Total,16/04/2020,-60,-43,-49,-72,-45,24
+Panama,Total,16/04/2020,-74,-41,-67,-72,-72,39
+Peru,Total,16/04/2020,-82,-60,-73,-83,-74,40
+Peru,Amazonas,16/04/2020,,,-59,-78,-47,
+Peru,Ancash,16/04/2020,-78,-59,-63,-86,-66,33
+Peru,Apurimac,16/04/2020,-72,-67,-63,-70,-57,
+Peru,Arequipa,16/04/2020,-81,-67,-68,-72,-72,38
+Peru,Ayacucho,16/04/2020,-71,-51,-67,-84,-61,33
+Peru,Cajamarca,16/04/2020,-77,-57,-67,-85,-61,32
+Peru,Callao Region,16/04/2020,-76,-56,-70,-89,-77,41
+Peru,Cusco,16/04/2020,-84,-62,-66,-83,-67,38
+Peru,Huancavelica,16/04/2020,,,-44,-69,-49,
+Peru,Huanuco,16/04/2020,-76,-65,-67,-85,-61,31
+Peru,Ica,16/04/2020,-74,-48,-69,-88,-62,34
+Peru,Junin,16/04/2020,-76,-67,-62,-83,-64,36
+Peru,La Libertad,16/04/2020,-81,-56,-68,-79,-68,34
+Peru,Lambayeque,16/04/2020,-83,-64,-70,-86,-70,34
+Peru,Lima Region,16/04/2020,-69,-54,-64,-81,-57,31
+Peru,Loreto,16/04/2020,-76,-60,-64,-70,-59,32
+Peru,Madre de Dios,16/04/2020,-76,-64,-69,-71,-56,
+Peru,Metropolitan Municipality of Lima,16/04/2020,-85,-60,-81,-83,-80,44
+Peru,Moquegua,16/04/2020,-72,-66,-70,-88,-60,
+Peru,Pasco,16/04/2020,,,-57,,-48,
+Peru,Piura,16/04/2020,-77,-61,-66,-85,-65,32
+Peru,Puno,16/04/2020,-76,-67,-60,-79,-61,34
+Peru,San Martin,16/04/2020,-77,-58,-59,-82,-58,30
+Peru,Tacna,16/04/2020,-82,-61,-72,-81,-68,37
+Peru,Tumbes,16/04/2020,-70,,-66,-87,-59,
+Peru,Ucayali,16/04/2020,-77,-58,-69,-87,-62,36
+Papua New Guinea,Total,16/04/2020,-13,-6,-15,-32,2,9
+Philippines,Total,16/04/2020,-77,-54,-48,-84,-72,36
+Pakistan,Total,16/04/2020,-57,-41,-27,-49,-48,19
+Poland,Total,16/04/2020,-55,-32,-40,-60,-43,19
+Poland,Greater Poland Voivodeship,16/04/2020,-52,-32,-24,-61,-43,20
+Poland,Kuyavian-Pomeranian Voivodeship,16/04/2020,-52,-32,-33,-59,-41,18
+Poland,Lesser Poland Voivodeship,16/04/2020,-61,-38,-67,-67,-50,22
+Poland,Łódź Voivodeship,16/04/2020,-50,-29,-38,-54,-43,18
+Poland,Lower Silesian Voivodeship,16/04/2020,-55,-35,-34,-65,-47,20
+Poland,Lublin Voivodeship,16/04/2020,-57,-36,-44,-62,-46,18
+Poland,Lubusz Voivodeship,16/04/2020,-45,-34,-9,-52,-41,18
+Poland,Masovian Voivodeship,16/04/2020,-57,-33,-47,-69,-55,25
+Poland,Opole Voivodeship,16/04/2020,-51,-30,-18,-55,-40,17
+Poland,Podkarpackie Voivodeship,16/04/2020,-56,-34,-31,-60,-45,18
+Poland,Podlaskie Voivodeship,16/04/2020,-57,-34,-35,-58,-43,18
+Poland,Pomeranian Voivodeship,16/04/2020,-55,-34,-44,-64,-46,20
+Poland,Silesian Voivodeship,16/04/2020,-53,-31,-22,-52,-43,18
+Poland,Swietokrzyskie,16/04/2020,-54,-30,-31,-52,-43,18
+Poland,Warmian-Masurian Voivodeship,16/04/2020,-51,-34,-35,-58,-42,17
+Poland,West Pomeranian Voivodeship,16/04/2020,-52,-35,-45,-53,-41,18
+Puerto Rico,Total,16/04/2020,-60,-30,-58,-75,-56,28
+Portugal,Total,16/04/2020,-69,-34,-64,-75,-63,33
+Portugal,Aveiro District,16/04/2020,-65,-27,-58,-77,-57,33
+Portugal,Azores,16/04/2020,-70,-40,-57,-82,-62,30
+Portugal,Beja District,16/04/2020,-71,-37,-41,,-52,24
+Portugal,Braga,16/04/2020,-67,-28,-67,-68,-59,34
+Portugal,Bragança District,16/04/2020,-77,-43,-49,-71,-62,
+Portugal,Castelo Branco District,16/04/2020,-68,-31,-58,-72,-60,28
+Portugal,Coimbra District,16/04/2020,-68,-34,-82,-74,-60,32
+Portugal,Évora District,16/04/2020,-66,-33,-70,-74,-56,29
+Portugal,Faro District,16/04/2020,-70,-42,-65,-77,-60,28
+Portugal,Guarda District,16/04/2020,-71,-32,-53,,-59,29
+Portugal,Leiria District,16/04/2020,-68,-30,-62,-72,-54,31
+Portugal,Lisbon,16/04/2020,-73,-39,-71,-78,-69,36
+Portugal,Madeira,16/04/2020,-76,-43,-71,-67,-69,35
+Portugal,Portalegre District,16/04/2020,-71,-35,-55,,-55,
+Portugal,Porto District,16/04/2020,-69,-30,-59,-73,-62,34
+Portugal,Santarém District,16/04/2020,-66,-32,-56,-74,-56,30
+Portugal,Setubal,16/04/2020,-65,-30,-55,-76,-66,34
+Portugal,Viana do Castelo District,16/04/2020,-67,-30,-51,-64,-58,32
+Portugal,Vila Real District,16/04/2020,-70,-41,-57,-65,-61,29
+Portugal,Viseu District,16/04/2020,-67,-34,-54,-53,-60,31
+Paraguay,Total,16/04/2020,-57,-38,-53,-67,-45,26
+Qatar,Total,16/04/2020,-53,-24,-43,-57,-37,27
+Réunion,Total,16/04/2020,-90,-73,,-89,-57,
+Romania,Total,16/04/2020,-53,-13,-34,-58,-54,18
+Romania,Alba County,16/04/2020,-52,-15,-5,-40,-53,17
+Romania,Arad County,16/04/2020,-53,-13,-19,-51,-55,20
+Romania,Argeș County,16/04/2020,-48,-9,-2,-54,-56,19
+Romania,Bacău County,16/04/2020,-50,-16,-14,-56,-50,16
+Romania,Bihor County,16/04/2020,-50,-15,-25,-41,-50,17
+Romania,Bistrița-Năsăud County,16/04/2020,-54,-16,-28,-48,-51,15
+Romania,Botoșani County,16/04/2020,-51,-16,18,-56,-50,13
+Romania,Brăila County,16/04/2020,-39,-6,-39,-48,-44,15
+Romania,Brașov County,16/04/2020,-59,-23,-50,-59,-55,20
+Romania,Bucharest,16/04/2020,-64,-14,-71,-67,-63,25
+Romania,Buzău County,16/04/2020,-37,-9,-10,-15,-45,13
+Romania,Călărași County,16/04/2020,-23,2,-7,-41,-40,14
+Romania,Caraș-Severin County,16/04/2020,-51,-14,-14,-34,-49,13
+Romania,Cluj County,16/04/2020,-64,-25,-38,-64,-61,22
+Romania,Constanța County,16/04/2020,-48,-4,-32,-52,-47,15
+Romania,Covasna County,16/04/2020,-53,-32,-16,-44,-48,16
+Romania,Dâmbovița County,16/04/2020,-45,-5,-15,-31,-50,16
+Romania,Dolj County,16/04/2020,-51,-3,-33,-45,-48,14
+Romania,Galați,16/04/2020,-47,-8,-42,-44,-50,16
+Romania,Giurgiu County,16/04/2020,-27,10,5,-25,-40,15
+Romania,Gorj County,16/04/2020,-41,-8,-23,-46,-49,13
+Romania,Harghita County,16/04/2020,-56,-36,-25,-38,-47,17
+Romania,Hunedoara County,16/04/2020,-54,-11,-21,-45,-50,14
+Romania,Ialomița County,16/04/2020,-24,-3,-4,-47,-41,13
+Romania,Iași County,16/04/2020,-60,-17,-29,-54,-58,20
+Romania,Ilfov County,16/04/2020,-44,8,-9,-66,-58,25
+Romania,Maramureș County,16/04/2020,-49,-19,-16,-47,-51,16
+Romania,Mehedinți County,16/04/2020,-44,-6,-24,-45,-49,11
+Romania,Mureș County,16/04/2020,-56,-24,-38,-52,-52,17
+Romania,Neamț County,16/04/2020,-52,-19,-23,-48,-53,16
+Romania,Olt County,16/04/2020,-39,5,-16,-37,-43,11
+Romania,Prahova,16/04/2020,-50,-9,-33,-55,-51,17
+Romania,Sălaj,16/04/2020,-48,-18,-29,-40,-52,15
+Romania,Satu Mare County,16/04/2020,-49,-14,-14,-41,-52,17
+Romania,Sibiu,16/04/2020,-57,-16,-47,-59,-58,20
+Romania,Suceava County,16/04/2020,-62,-31,-14,-59,-59,18
+Romania,Teleorman County,16/04/2020,-29,4,42,-32,-41,12
+Romania,Timiș County,16/04/2020,-56,-18,-51,-61,-60,22
+Romania,Tulcea County,16/04/2020,-41,-15,-23,-37,-41,13
+Romania,Vâlcea County,16/04/2020,-47,-4,-21,-45,-47,12
+Romania,Vaslui County,16/04/2020,-51,-15,10,-39,-48,13
+Romania,Vrancea County,16/04/2020,-46,-16,13,-45,-49,15
+Rwanda,Total,16/04/2020,-61,-59,-15,-74,-58,30
+Saudi Arabia,Total,16/04/2020,-73,-39,-69,-83,-62,33
+Saudi Arabia,Al Bahah Province,16/04/2020,-41,-18,-40,,-48,
+Saudi Arabia,Al Jowf,16/04/2020,-46,-25,-48,-68,-37,19
+Saudi Arabia,Al Madinah Province,16/04/2020,-78,-50,-73,-89,-65,33
+Saudi Arabia,Al Qassim,16/04/2020,-54,-28,-62,-69,-43,24
+Saudi Arabia,Aseer Province,16/04/2020,-45,-18,-46,-74,-40,21
+Saudi Arabia,Eastern Province,16/04/2020,-73,-37,-61,-83,-55,34
+Saudi Arabia,Hail Province,16/04/2020,-49,-28,-64,-65,-36,19
+Saudi Arabia,Jazan,16/04/2020,-57,-33,-66,-56,-40,21
+Saudi Arabia,Makkah Province,16/04/2020,-79,-44,-78,-83,-66,33
+Saudi Arabia,Najran,16/04/2020,-40,-16,-51,,-34,17
+Saudi Arabia,Northern Borders Province,16/04/2020,-45,-20,,,-34,
+Saudi Arabia,Riyadh Province,16/04/2020,-79,-40,-74,-89,-71,38
+Saudi Arabia,Tabuk Province,16/04/2020,-70,-37,-53,-45,-51,27
+Sweden,Total,16/04/2020,-19,-3,50,-37,-31,11
+Sweden,Blekinge County,16/04/2020,-3,-2,,-18,-27,8
+Sweden,Dalarna County,16/04/2020,-27,-11,15,-31,-33,10
+Sweden,Gavleborg County,16/04/2020,-14,-4,24,-32,-33,10
+Sweden,Gotland County,16/04/2020,,-6,,-27,-15,6
+Sweden,Halland County,16/04/2020,-7,-3,,-23,-21,9
+Sweden,Jamtland County,16/04/2020,-27,-16,8,-45,-37,11
+Sweden,Jonkoping County,16/04/2020,-12,-3,45,-24,-20,8
+Sweden,Kalmar County,16/04/2020,-2,1,,-22,-33,9
+Sweden,Kronoberg County,16/04/2020,-16,-3,,-30,-23,9
+Sweden,Norrbotten County,16/04/2020,-17,-7,96,-33,-34,9
+Sweden,Örebro County,16/04/2020,-12,-3,,-31,-23,9
+Sweden,Östergötland County,16/04/2020,-13,-6,85,-31,-24,10
+Sweden,Skåne County,16/04/2020,-13,-2,73,-38,-25,10
+Sweden,Södermanland County,16/04/2020,-11,-3,,-37,-27,10
+Sweden,Stockholm County,16/04/2020,-27,-6,11,-47,-41,16
+Sweden,Uppsala County,16/04/2020,-18,1,58,-39,-28,13
+Sweden,Varmland County,16/04/2020,-15,-3,30,-24,-31,10
+Sweden,Västerbotten County,16/04/2020,-14,-4,55,-39,-39,11
+Sweden,Västernorrland County,16/04/2020,-13,-2,,-33,-35,11
+Sweden,Västmanland County,16/04/2020,-14,-1,,-31,-27,10
+Sweden,Västra Götaland County,16/04/2020,-17,0,92,-33,-28,11
+Singapore,Total,16/04/2020,-61,-19,-52,-66,-66,42
+Slovenia,Total,16/04/2020,-68,-35,-13,-55,-51,21
+Slovenia,Administrative unit Maribor,16/04/2020,-69,-42,-18,-67,-51,20
+Slovenia,Ajdovščina,16/04/2020,,,,,-46,
+Slovenia,Brežice,16/04/2020,,,,,-50,
+Slovenia,Celje,16/04/2020,-69,-41,,-36,-50,
+Slovenia,Cerknica,16/04/2020,,,,,-49,
+Slovenia,Črnomelj,16/04/2020,,,,,-41,
+Slovenia,Domžale,16/04/2020,-70,-24,,-51,-54,
+Slovenia,Dravograd,16/04/2020,,,,,-47,
+Slovenia,Gornja Radgona,16/04/2020,,,,,-42,
+Slovenia,Grosuplje,16/04/2020,,,,,-56,
+Slovenia,Idrija,16/04/2020,,,,,-59,
+Slovenia,Ilirska Bistrica,16/04/2020,,,,,-52,
+Slovenia,Izola,16/04/2020,,,,,-55,
+Slovenia,Jesenice,16/04/2020,,,,-53,-45,
+Slovenia,Kamnik,16/04/2020,,,,,-52,
+Slovenia,Kočevje,16/04/2020,,,,,-42,
+Slovenia,Koper,16/04/2020,-68,-34,,-50,-54,
+Slovenia,Kranj,16/04/2020,-69,-31,,-66,-52,23
+Slovenia,Krško,16/04/2020,,,,,-48,
+Slovenia,Laško,16/04/2020,,,,,-45,
+Slovenia,Lenart,16/04/2020,,,,,-53,
+Slovenia,Lendava,16/04/2020,,,,,-48,
+Slovenia,Litija,16/04/2020,,,,,-51,
+Slovenia,Ljubljana,16/04/2020,-73,-40,-29,-67,-59,25
+Slovenia,Ljutomer,16/04/2020,,,,,-47,
+Slovenia,Logatec,16/04/2020,,,,,-52,
+Slovenia,Mozirje,16/04/2020,,,,,-47,
+Slovenia,Municipality of Hrastnik,16/04/2020,,,,,-44,
+Slovenia,Murska Sobota,16/04/2020,-71,,,-38,-49,
+Slovenia,Nova Gorica,16/04/2020,-72,-41,,-55,-51,
+Slovenia,Novo Mesto,16/04/2020,-70,-31,,,-47,
+Slovenia,Ormož,16/04/2020,,,,,-47,
+Slovenia,Pesnica,16/04/2020,,,,,-50,
+Slovenia,Piran,16/04/2020,,,,,-52,
+Slovenia,Postojna,16/04/2020,,,,,-50,
+Slovenia,Ptuj,16/04/2020,-70,-33,,-44,-46,
+Slovenia,Radlje ob Dravi,16/04/2020,,,,,-47,
+Slovenia,Radovljica,16/04/2020,,,-41,-52,-53,
+Slovenia,Ravne na Koroškem,16/04/2020,,,,,-41,
+Slovenia,Ribnica,16/04/2020,,,,,-49,
+Slovenia,Ruše,16/04/2020,,,,,-47,
+Slovenia,Šentjur,16/04/2020,,,,,-45,
+Slovenia,Sevnica,16/04/2020,,,,,-47,
+Slovenia,Sežana,16/04/2020,,,,,-55,
+Slovenia,Škofja Loka,16/04/2020,,,,,-50,
+Slovenia,Slovenj Gradec,16/04/2020,,,,,-50,
+Slovenia,Slovenska Bistrica,16/04/2020,,,,,-44,
+Slovenia,Slovenske Konjice,16/04/2020,,,,,-43,
+Slovenia,Šmarje pri Jelšah,16/04/2020,,,,,-48,
+Slovenia,Tolmin,16/04/2020,,,,,-52,
+Slovenia,Trbovlje,16/04/2020,,,,,-45,
+Slovenia,Trebnje,16/04/2020,,,,,-49,
+Slovenia,Tržič,16/04/2020,,,,,-49,
+Slovenia,Velenje,16/04/2020,,-36,,-44,-44,
+Slovenia,Vrhnika,16/04/2020,,,,,-58,
+Slovenia,Zagorje ob Savi,16/04/2020,,,,,-51,
+Slovenia,Žalec,16/04/2020,,-36,,,-48,
+Slovakia,Total,16/04/2020,-61,-13,28,-50,-45,16
+Slovakia,Banská Bystrica Region,16/04/2020,-66,-13,34,-41,-40,13
+Slovakia,Bratislava Region,16/04/2020,-64,-19,46,-58,-56,23
+Slovakia,Košice Region,16/04/2020,-63,-14,,-48,-45,15
+Slovakia,Nitra Region,16/04/2020,-57,-12,39,-43,-40,16
+Slovakia,Prešov Region,16/04/2020,-63,-14,-26,-47,-42,14
+Slovakia,Trenčín Region,16/04/2020,-55,-11,52,-44,-39,14
+Slovakia,Trnava Region,16/04/2020,-56,-3,80,-44,-42,17
+Slovakia,Žilina Region,16/04/2020,-63,-13,10,-49,-42,14
+Senegal,Total,16/04/2020,-40,-29,-27,-48,-33,19
+El Salvador,Total,16/04/2020,-70,-44,-63,-67,-65,33
+Togo,Total,16/04/2020,-31,-19,-12,-35,-21,20
+Thailand,Total,16/04/2020,-46,-19,-44,-60,-33,19
+Tajikistan,Total,16/04/2020,-3,-5,-5,-14,13,-2
+Turkey,Total,16/04/2020,-56,-3,-35,-58,-47,21
+Trinidad and Tobago,Total,16/04/2020,-63,-25,-54,-74,-63,28
+Taiwan,Total,16/04/2020,-11,-1,-5,-20,7,0
+Tanzania,Total,16/04/2020,-20,-5,-11,-15,-19,9
+Uganda,Total,16/04/2020,-66,-53,-22,-70,-57,30
+Uruguay,Total,16/04/2020,-53,-28,-65,-49,-34,18
+Uruguay,Artigas Department,16/04/2020,,,-48,,-15,
+Uruguay,Canelones Department,16/04/2020,-48,-28,-59,-53,-33,18
+Uruguay,Cerro Largo Department,16/04/2020,-45,,-61,-38,-15,12
+Uruguay,Colonia Department,16/04/2020,-54,-26,-70,-65,-27,17
+Uruguay,Durazno Department,16/04/2020,,-24,-45,,-9,
+Uruguay,Flores Department,16/04/2020,,,-51,,-17,
+Uruguay,Florida Department,16/04/2020,,-20,-66,-39,-18,
+Uruguay,Lavalleja Department,16/04/2020,,-13,-65,-55,-22,
+Uruguay,Maldonado Department,16/04/2020,-75,-46,-85,-73,-48,21
+Uruguay,Montevideo Department,16/04/2020,-51,-24,-59,-41,-40,21
+Uruguay,Paysandú Department,16/04/2020,-43,7,-60,-43,-20,13
+Uruguay,Río Negro Department,16/04/2020,-41,-26,-59,-42,-24,
+Uruguay,Rivera Department,16/04/2020,-54,-23,-50,-52,-24,14
+Uruguay,Rocha Department,16/04/2020,-73,-62,-86,-77,-30,
+Uruguay,Salto Department,16/04/2020,-42,-24,-56,,-19,13
+Uruguay,San José Department,16/04/2020,-34,-20,-59,-36,-22,15
+Uruguay,Soriano Department,16/04/2020,-38,,-58,,-20,13
+Uruguay,Tacuarembó Department,16/04/2020,-36,-16,-60,-49,-13,13
+Uruguay,Treinta y Tres Department,16/04/2020,,,-66,-47,-17,
+Venezuela,Total,16/04/2020,-59,-34,-50,-60,-53,22
+Vietnam,Total,16/04/2020,-54,-30,-34,-54,-16,13
+Yemen,Total,16/04/2020,-8,1,-10,-16,-3,5
+South Africa,Total,16/04/2020,-69,-38,-40,-79,-71,36
+South Africa,Eastern Cape,16/04/2020,-71,-37,-14,-75,-67,32
+South Africa,Free State,16/04/2020,-69,-33,-41,-58,-62,30
+South Africa,Gauteng,16/04/2020,-69,-38,-59,-81,-75,40
+South Africa,KwaZulu-Natal,16/04/2020,-67,-36,-20,-78,-67,32
+South Africa,Limpopo,16/04/2020,-60,-40,-1,-64,-64,31
+South Africa,Mpumalanga,16/04/2020,-62,-35,-19,-58,-60,31
+South Africa,North West,16/04/2020,-67,-38,-19,-53,-64,32
+South Africa,Northern Cape,16/04/2020,-63,-33,-23,-72,-59,29
+South Africa,Western Cape,16/04/2020,-75,-42,-75,-84,-75,37
+Zambia,Total,16/04/2020,-18,-10,-6,-23,-19,12
+Zimbabwe,Total,16/04/2020,-62,-50,-48,-77,-64,42
