@@ -9,5 +9,5 @@ The project requires applying different data mining and exploration techniques t
 	Model Evaluation:
 	Silhouette Coefficient, Confusion Matrix, AUC-ROC curve
 
-	Virtualisation for Analysis:**
+	Virtualisation for Analysis:
 	Boxplot, Histogram, Dendrogram
