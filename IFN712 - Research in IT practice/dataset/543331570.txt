@@ -1,4 +1,0 @@
-<uid>543331570
-<uname>What_is_My_IP
-<tweet>
-Your IP Location on the Google Maps http://t.co/tf4bzwnj

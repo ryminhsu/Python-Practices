@@ -1,4 +1,0 @@
-<uid>11222
-<uname>k
-<tweet>
-"Most people hate their jobs. For them, every single email is a welcome interruption into their miserable lives." —@commagere (j/k) #ghconf

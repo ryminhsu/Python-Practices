@@ -1,4 +1,0 @@
-<uid>340573964
-<uname>ClaggoHotel
-<tweet>
-We're all currently working on banners/forums. This will not cause any maintenance, we are trying to get this done, so no maintenance at all

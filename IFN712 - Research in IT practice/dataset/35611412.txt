@@ -1,4 +1,0 @@
-<uid>35611412
-<uname>billpollak
-<tweet>
-Mary Poppendieck, Expert on #Lean Software Development, Will Keynote SATURN 2013 #saturn2013 http://t.co/tGfvLPW2
