@@ -6,7 +6,7 @@ The project aims to filter the interests of users from tweets for grouping users
     Clustering Models: K-Means, DBSCAN, and Hierarchical Agglomerative Clustering
     Vertorisation: TF-IDF
     Evaluative Method: Silhouette Coefficient
-    Virtualisation for Data Analysis: Silhouette Plot, Top-N Features (Topic Modelling), WorldCloud <BR/>
+    Virtualisation for Data Analysis: Silhouette Plot, Top-N Features (Topic Modelling), WorldCloud
 
 # Note
 As privacy & security reasons, the original dataset is not available to upload to this repository.
