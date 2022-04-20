@@ -24,4 +24,4 @@ The project requires applying different data mining and exploration techniques t
 	- Histogram
 	- Dendrogram
 # Note
-Be thankful to my teammates (Xing Ming & Tong Xu) to contribute efforts in coding & paper writing.
+Be thankful to my teammates (Xing Ming & Tong Xu) to contribute efforts in coding & report writing.
