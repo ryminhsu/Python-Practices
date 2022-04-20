@@ -1,5 +1,3 @@
-# Python Practice
+# Synposis
 
-Tool:
-Spyder
-Jupyter
+The repostory is used for PhD interview to prove my programming and writing skills. IFN
