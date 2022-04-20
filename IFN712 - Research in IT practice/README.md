@@ -1,5 +1,5 @@
 # Synopsis
-The project aims to filter the interests of users from tweets for grouping users who focus on similar topics. A comparative study focuses on unsupervised learning algorithms, as their advantages (e.g., less human intervention) indicate the promising capability in tweet mining. In this research, a data-driven experiment will validate their performance on a real Twitter dataset to verify feasibility. The **code** records the research process, while the **report** illustrates experimental findgins, limitations and improvements.
+The project aims to filter the interests of users from tweets for grouping users who focus on similar topics. A comparative study focuses on unsupervised learning algorithms, as their advantages (e.g., less human intervention) indicate the promising capability in tweet mining. In this research, a data-driven experiment validates their performance on a real Twitter dataset to verify feasibility. The **code** records the research process, while the **report** illustrates experimental findgins, limitations and improvements.
 # Relevant Techniques 
     Clustering Models: K-Means, DBSCAN, and Hierarchical Agglomerative Clustering
     Vertorisation: TF-IDF
