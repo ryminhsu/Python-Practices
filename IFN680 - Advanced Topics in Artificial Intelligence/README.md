@@ -11,7 +11,7 @@ The project is a fundamental computer vision research on understanding the Siame
     Underfitting Solutions
     - Get more training data.
     - Increase the size or number of parameters in the model.
-    - Increase the complexity of the model.
-    - Increasing the training time, until cost function is minimised.
+    - Upgrade the complexity of the model.
+    - Boost the training time, until cost function is minimised.
 # Note
 Be thankful to my teammates (Earl & Vincent) to contribute efforts in coding & paper writing.
