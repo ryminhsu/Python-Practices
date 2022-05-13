@@ -1,7 +1,7 @@
 # Synopsis
 The project is a fundamental computer vision research on understanding the Siamese Network in image classification. In this research, our experiments focus on optimising model performance to be generalisation in image prediction by applying various machine learning techniques to mitigate the occurrence of under- and overfitting issues. 
 # Relevant Techniques
-    Experimental Model: Siamese Network with Conventional Neural Network
+    Experimental Model: Siamese Network with Convolutional Neural Network
     Loss Function: Contrastive loss function with Adadelta Optimiser
     Distance Metric: Euclidean Distance
     
