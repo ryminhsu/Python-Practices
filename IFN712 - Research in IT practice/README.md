@@ -7,4 +7,4 @@ The project aims to filter the interests of users from tweets for grouping users
     Virtualisation for Data Analysis: Silhouette Plot, Top-N Features (Topic Modelling), WorldCloud
 # Note
 - For privacy & security reasons, the original dataset is not available to upload.
-- Be thankful to comments and constructive suggestion by Prof. Xu Yue and Dr. Dakshi Kapugama Geeganage.
+- Be thankful to the comments and constructive suggestions by Prof. Xu Yue and Dr. Dakshi Kapugama Geeganage.
