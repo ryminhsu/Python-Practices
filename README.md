@@ -24,5 +24,5 @@ Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh
 Info.: http://cs231n.stanford.edu/
 
 ### YoLoV5 Object Detection
-https://github.com/ultralytics/yolov5
+https://github.com/ultralytics/yolov5 </br>
 YoLoV5 is a family of pretrained models on the COCO dataset, which is powerful in Video/Real-Time Object Detection.
