@@ -22,3 +22,7 @@ Info.: https://web.stanford.edu/class/cs25/
 ### Deep Learning for Computer Vision
 Video: https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ </br>
 Info.: http://cs231n.stanford.edu/
+
+### Real-Time Object Detection
+https://github.com/ultralytics/yolov5
+YoLoV5 is a family of pretrained models on the COCO dataset, which is powerful in Video/Real-Time Object Detection.
