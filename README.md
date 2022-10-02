@@ -5,7 +5,8 @@ IFN509 and IFN712 are involved with various techniques in text-based data explor
 
 </br>
 
-The below systematic courses are what I am studying to improve my weaknesses in PhD project-required knowledge.
+# Knowledge 
+The section records systematic courses that I am studying to improve my weaknesses in PhD project-required knowledge.
 
 ### Deep Multi-Task and Meta Learning
 Video: https://www.youtube.com/watch?v=0KWT9wIYoF8&list=PLoROMvodv4rOxuwpC_raecBCd5Jf54lEa </br>
@@ -26,3 +27,10 @@ Info.: http://cs231n.stanford.edu/
 ### YoLoV5 Object Detection
 https://github.com/ultralytics/yolov5 </br>
 YoLoV5 is a family of pretrained models on the COCO dataset, which is powerful in Video/Real-Time Object Detection.
+
+# Tools
+The section provides useful tools for learning knowledge in DL, NLP, and ML areas.  
+
+### CNN Explainer
+https://poloclub.github.io/cnn-explainer/ </br>
+This tool virtualises the classification process of CNN on your browser.
