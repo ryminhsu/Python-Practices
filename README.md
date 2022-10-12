@@ -28,6 +28,14 @@ Info.: http://cs231n.stanford.edu/
 https://github.com/ultralytics/yolov5 </br>
 YoLoV5 is a family of pretrained models on the COCO dataset, which is powerful in Video/Real-Time Object Detection.
 
+### Method Summary of Cross-modal Retrieval
+https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial/blob/main/method.md#vision-language-pretraining
+It categorises recent publications related to Cross Media Retrieval.
+
+### BERT-Related Paper
+https://github.com/tomohideshibata/BERT-related-papers#multi-modal
+This is a list of BERT-related papers
+
 # Tools
 The section provides useful tools for learning knowledge in DL, NLP, and ML areas.  
 
