@@ -21,6 +21,7 @@ The project requires applying different data mining and exploration techniques t
 
 	Virtualisation for Analysis:
 	- Boxplot
+	- Scatter Plot
 	- Histogram
 	- Dendrogram
 # Note
